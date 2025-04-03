@@ -1,0 +1,1326 @@
+{
+  "type": "FeatureCollection",
+  "name": "all_validations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1623128752571438692",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1623128752571438692 at Lat 11.60538429 Lon 53.80582032 is associated to a Topology urn:here::here:Topology:632370883 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23619632,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-e9454f18-5a67-31cd-9b9a-6ab4c3d2108a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.60538,
+          53.80582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622234405194397091",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622234405194397091 at Lat 10.99981469 Lon 50.85045082 is associated to a Topology urn:here::here:Topology:163684162 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606617,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-9ad72772-7759-37ef-8037-16b0bdb9cae5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99981,
+          50.85045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622234404173774672",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622234404173774672 at Lat 10.99982345 Lon 50.85045271 is associated to a Topology urn:here::here:Topology:163684162 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606617,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-3c3a4367-2771-38ca-9e1c-789a6ebb8ebf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.99982,
+          50.85045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621800204704796055",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621800204704796055 at Lat 8.56142012 Lon 49.14747236 is associated to a Topology urn:here::here:Topology:202544293 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23600299,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-bffdeb99-0925-3d7f-8bfa-557b95bcd851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56142,
+          49.14747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1623044201860442531",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1623044201860442531 at Lat 13.45757665 Lon 52.46456223 is associated to a Topology urn:here::here:Topology:899437146 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23618401,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-9f17df83-ad29-352a-a83b-b77ca695d773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45758,
+          52.46456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1623044181023742324",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1623044181023742324 at Lat 13.523174369493741 Lon 52.392423414620644 is associated to a Topology urn:here::here:Topology:863444950 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23618401,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-630c7411-49d6-343d-9de1-14ba2f85c001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52317,
+          52.39242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621758594219739695",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621758594219739695 at Lat 6.62697969 Lon 49.44195826 is associated to a Topology urn:here::here:Topology:871335701 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599693,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-1883991e-f151-31f4-b45b-e9668a4707a0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62698,
+          49.44196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622265583906601127",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622265583906601127 at Lat 10.515689232735422 Lon 52.306443596577054 is associated to a Topology urn:here::here:Topology:156411357 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23607071,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-4aff2944-a6b7-377d-8280-a5c07833cfc6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51569,
+          52.30644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622232746136595537",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622232746136595537 at Lat 10.68594953 Lon 50.66747663 is associated to a Topology urn:here::here:Topology:165500053 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606593,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-6440426d-3345-34a8-94be-01dd610e384d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.68595,
+          50.66748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621752874458049432",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621752874458049432 at Lat 8.16270644 Lon 49.13894509 is associated to a Topology urn:here::here:Topology:158070718 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599610,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-a1c9bd0a-14e0-3edc-9ee1-b28a7c19f2ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.16271,
+          49.13895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621752876050240343",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621752876050240343 at Lat 8.16831829 Lon 49.14067207 is associated to a Topology urn:here::here:Topology:198120130 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599610,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-942fd61f-1362-3c50-ad80-93cac0391cb8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.16832,
+          49.14067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621752884171909494",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621752884171909494 at Lat 8.1538361 Lon 49.15669894 is associated to a Topology urn:here::here:Topology:898386048 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599610,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-c44a858b-4dfe-37b7-ad4d-8055b23c94f1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.15384,
+          49.1567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622231838998022556",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622231838998022556 at Lat 10.40880597 Lon 51.00133253 is associated to a Topology urn:here::here:Topology:838032370 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606580,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-22f09b97-4b2c-37f8-afda-95f838c868ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40881,
+          51.00133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622257063834502472",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622257063834502472 at Lat 8.5875974 Lon 53.18251569 is associated to a Topology urn:here::here:Topology:792580002 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606947,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-cf76bcec-2876-3b50-a5ff-4d66a31922f0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5876,
+          53.18252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621785253739312981",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621785253739312981 at Lat 8.19283746 Lon 49.98671748 is associated to a Topology urn:here::here:Topology:160841041 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23600081,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-49e71525-749f-3e53-967c-cbca23afe9c2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.19284,
+          49.98672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621785251138830657",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621785251138830657 at Lat 8.25447909 Lon 49.96516577 is associated to a Topology urn:here::here:Topology:160471468 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23600081,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-8eb79ac8-42bb-3d7c-9615-6cc8e688e4d6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25448,
+          49.96517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621785568679906047",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621785568679906047 at Lat 8.29378727 Lon 50.03077171 is associated to a Topology urn:here::here:Topology:632072072 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23600086,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-677613b0-62b9-3dc1-9872-319c4f85f067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.29379,
+          50.03077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622244977470103447",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622244977470103447 at Lat 11.03483059 Lon 51.80581909 is associated to a Topology urn:here::here:Topology:190398571 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606771,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-a61cb986-54ae-37d2-bc0c-5a92ca903c75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03483,
+          51.80582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622265023553125278",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622265023553125278 at Lat 10.49411143 Lon 52.1364319 is associated to a Topology urn:here::here:Topology:882252498 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23607063,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-8a3a7191-8cf5-378a-8fc8-8e8d42dab944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.49411,
+          52.13643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622257181594421447",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622257181594421447 at Lat 8.687664914539376 Lon 53.173089746311206 is associated to a Topology urn:here::here:Topology:847857072 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606948,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-37394c25-7a99-3c39-a706-d4a5102bbcf0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68766,
+          53.17309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622257181044599251",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622257181044599251 at Lat 8.68766024 Lon 53.17309191 is associated to a Topology urn:here::here:Topology:847857072 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606948,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-da3f336e-e4a7-3762-8db2-908534edc154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68766,
+          53.17309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759123294045785",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759123294045785 at Lat 7.002391521456322 Lon 49.22638160602964 is associated to a Topology urn:here::here:Topology:105958376 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599701,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-80d45a6c-ad01-3caf-9303-b263686ff06f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00239,
+          49.22638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759106830864158",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759106830864158 at Lat 6.96245003 Lon 49.23332518 is associated to a Topology urn:here::here:Topology:896293485 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599701,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-e38862bc-70d3-3743-b8c0-9b86b7632a4c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96245,
+          49.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759150762275691",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759150762275691 at Lat 6.95378099 Lon 49.29318482 is associated to a Topology urn:here::here:Topology:173131539 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599701,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-568d83f5-84bf-36b6-908f-b386c953345b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.95378,
+          49.29318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759109660268219",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759109660268219 at Lat 6.98048836 Lon 49.23636783 is associated to a Topology urn:here::here:Topology:844084820 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599701,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-6714f4a8-0b16-3b64-8e4a-5c341b46f0e0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.98049,
+          49.23637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759125981153440",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759125981153440 at Lat 7.01620203 Lon 49.22118519 is associated to a Topology urn:here::here:Topology:150103876 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599701,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-03f3530d-712a-3d7f-acd6-0cd208e3f9dc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0162,
+          49.22119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759111191018930",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759111191018930 at Lat 6.98267723 Lon 49.23597935 is associated to a Topology urn:here::here:Topology:202089405 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599701,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-19e0f35e-4498-3b34-aac0-a1b1d44c6f5c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.98268,
+          49.23598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622247141507479087",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622247141507479087 at Lat 8.85199589 Lon 52.19524333 is associated to a Topology urn:here::here:Topology:761557789 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606802,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-cc38a200-3a00-38d6-887b-a2fe29f9b391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.852,
+          52.19524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622237235004806242",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622237235004806242 at Lat 9.87833555 Lon 51.49108667 is associated to a Topology urn:here::here:Topology:92108697 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606658,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-1ace1535-9986-316f-a30a-6f4b52e385d4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.87834,
+          51.49109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759046259604233",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759046259604233 at Lat 6.86145972 Lon 49.24493882 is associated to a Topology urn:here::here:Topology:106102580 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599700,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-10ba941f-44d5-36d8-8acf-3755f1809732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86146,
+          49.24494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622604707805324026",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622604707805324026 at Lat 12.14646951 Lon 49.70047333 is associated to a Topology urn:here::here:Topology:805794950 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23612006,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-0910edef-8318-359c-b4dc-d5fd1c57b3cc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14647,
+          49.70047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622222364218865141",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622222364218865141 at Lat 8.51692257 Lon 51.94346717 is associated to a Topology urn:here::here:Topology:898382851 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606442,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-9344f6fe-bc43-3649-9240-18e434016fba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51692,
+          51.94347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622247857146899135",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622247857146899135 at Lat 9.10947338 Lon 52.2237788 is associated to a Topology urn:here::here:Topology:845380296 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606813,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-fc810a78-c0af-3dfd-9384-72df66050064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.10947,
+          52.22378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621789558273461066",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621789558273461066 at Lat 8.80060231 Lon 47.85504749 is associated to a Topology urn:here::here:Topology:811942109 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23600144,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-fdf02450-c21b-300d-8dc5-615d6c511036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8006,
+          47.85505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1623131007340159978",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1623131007340159978 at Lat 12.38014047 Lon 53.49590453 is associated to a Topology urn:here::here:Topology:856541196 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23619664,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-db77e1b0-4ba9-3b31-b676-9a7a9d3b88d7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38014,
+          53.4959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622230827836280980",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622230827836280980 at Lat 10.17858276 Lon 51.00638405 is associated to a Topology urn:here::here:Topology:85796807 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606565,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-e9f7b155-1c6e-3a2b-bf79-4bcfaba90ee6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.17858,
+          51.00638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621759000813647846",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621759000813647846 at Lat 6.77284147 Lon 49.35255723 is associated to a Topology urn:here::here:Topology:160307828 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599699,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-f1c29bab-5ec1-3a14-a6e3-f3779d3c1015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77284,
+          49.35256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1623044227401561812",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1623044227401561812 at Lat 13.361326383021094 Lon 52.47449884433965 is associated to a Topology urn:here::here:Topology:204938313 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23618402,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-8080799c-3e44-3955-9f67-2b4cbabf7184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36133,
+          52.4745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1623044230663285986",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1623044230663285986 at Lat 13.36111116 Lon 52.47459082 is associated to a Topology urn:here::here:Topology:204938313 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23618402,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-2caa0e9e-c9a8-3fb9-8fd3-b4a73dc5220d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36111,
+          52.47459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622257952225476716",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622257952225476716 at Lat 8.81519126 Lon 53.11139609 is associated to a Topology urn:here::here:Topology:792440967 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606960,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-ef84729e-0bca-383c-9e05-e3c614da111c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81519,
+          53.1114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621758856934526558",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621758856934526558 at Lat 6.82028689 Lon 49.25072339 is associated to a Topology urn:here::here:Topology:484414624 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599697,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-00fc9150-e070-3ff8-85da-dd777496e9f9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82029,
+          49.25072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621758855153193153",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621758855153193153 at Lat 6.82029182 Lon 49.25072384 is associated to a Topology urn:here::here:Topology:484414624 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599697,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-720748be-3ff8-3b94-bb26-33405eb310c9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82029,
+          49.25072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621758926869971323",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621758926869971323 at Lat 6.74129034 Lon 49.34079178 is associated to a Topology urn:here::here:Topology:200145928 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23599698,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-f3e72353-9907-34ee-a942-0e05762e1971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74129,
+          49.34079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622259731087861489",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622259731087861489 at Lat 9.17631858 Lon 52.999913 is associated to a Topology urn:here::here:Topology:122951536 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606986,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-c8f2b0a4-2b3e-3797-bbcc-f8e9db109218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17632,
+          52.99991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622259731657061345",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622259731657061345 at Lat 9.17801588 Lon 53.00307985 is associated to a Topology urn:here::here:Topology:78093315 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606986,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-5427a485-b73f-3635-be07-734a48c441f5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17802,
+          53.00308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622255631374193312",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622255631374193312 at Lat 8.66043103 Lon 53.03085756 is associated to a Topology urn:here::here:Topology:101012136 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606926,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-2a4ea88e-5f60-38be-a8f5-265adf3e6bb7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66043,
+          53.03086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622255628128648763",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622255628128648763 at Lat 8.65938145 Lon 53.03179245 is associated to a Topology urn:here::here:Topology:871403536 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606926,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-262a39e5-c902-3508-8376-0b4522546034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65938,
+          53.03179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622256753575951325",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622256753575951325 at Lat 9.02906752 Lon 53.05363266 is associated to a Topology urn:here::here:Topology:869525098 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606942,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-12069693-6db8-3a04-8b7f-ba8a4dfbba2c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.02907,
+          53.05363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622256757637732812",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622256757637732812 at Lat 9.03219512 Lon 53.05148319 is associated to a Topology urn:here::here:Topology:865916296 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606942,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-608f3744-6476-3cdc-b69d-e060ced3bc9d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0322,
+          53.05148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1623045212211940718",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1623045212211940718 at Lat 13.79073675 Lon 52.38963328 is associated to a Topology urn:here::here:Topology:901310609 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23618416,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-1fe9b08b-f0af-3c98-94da-111dc9b42ff5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.79074,
+          52.38963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622265434340944084",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622265434340944084 at Lat 10.49011508 Lon 52.21078671 is associated to a Topology urn:here::here:Topology:154529997 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23607069,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-04319283-7336-3ad2-ad88-f2eb2977538b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.49012,
+          52.21079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622265489724468724",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622265489724468724 at Lat 10.50578818 Lon 52.28113532 is associated to a Topology urn:here::here:Topology:135326169 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23607069,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-4f9845ea-852f-3695-8666-f643ad3c65d0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.50579,
+          52.28114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622255736353118156",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622255736353118156 at Lat 8.77890076 Lon 53.06890529 is associated to a Topology urn:here::here:Topology:170069006 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606927,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-f7502d19-3836-3a6d-889a-53ed33394f7a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7789,
+          53.06891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622253638793174820",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622253638793174820 at Lat 9.634354480080374 Lon 52.41925957499889 is associated to a Topology urn:here::here:Topology:875631203 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606897,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-f253a2f9-1483-352f-8378-d19589db74ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.63435,
+          52.41926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622604560811073713",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622604560811073713 at Lat 12.1422211 Lon 49.59187449 is associated to a Topology urn:here::here:Topology:742508191 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23612004,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-1dc67e5f-3d8a-3f55-83c0-cf9addea388d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.14222,
+          49.59187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622606714195163288",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622606714195163288 at Lat 11.41132806 Lon 50.01955328 is associated to a Topology urn:here::here:Topology:902423094 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23612035,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-54bd41ea-1b47-3e2d-a756-4c51eb09e375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.41133,
+          50.01955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622247500252548645",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622247500252548645 at Lat 8.82400493 Lon 52.21652886 is associated to a Topology urn:here::here:Topology:503028826 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606808,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-4f27acff-2859-3fd9-9976-adb585163217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.824,
+          52.21653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1621790734535554550",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1621790734535554550 at Lat 8.57206018 Lon 48.17793026 is associated to a Topology urn:here::here:Topology:898857069 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23600161,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-4817e9f5-cc32-3813-b52e-4fe8e70d63c8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57206,
+          48.17793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622233813343598399",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622233813343598399 at Lat 10.96225666 Lon 50.70387712 is associated to a Topology urn:here::here:Topology:498022987 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606608,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-d95d9dd3-7d3d-3a88-912a-daea5b9bfb17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.96226,
+          50.70388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rule Code": "WSIGN406",
+        "Feature ID": "urn:here::here:signs:1622237648242676379",
+        "Feature Type": "Road Sign",
+        "Error Message": "Motorway Sign urn:here::here:signs:1622237648242676379 at Lat 9.87702648 Lon 51.58322151 is associated to a Topology urn:here::here:Topology:100945390 that has a range for Pedestrian = TRUE within 20m distance.",
+        "Status": "ACTIVE",
+        "LE Allowed": false,
+        "Clean for Extract": false,
+        "Partition ID": 23606664,
+        "ISO": "DEU",
+        "Violation ID": "urn:here::here:Violation:signs-7e6adf23-cb9f-3496-8689-28c4aa5001f8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.87703,
+          51.58322
+        ]
+      }
+    }
+  ]
+}
