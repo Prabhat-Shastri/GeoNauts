@@ -1,0 +1,346 @@
+DIRECTIONAL MISMATCH REPORT
+============================================================
+Validation ID: urn:here::here:signs:1623128752571438692
+Partition ID: 23619632
+Sign Heading: 329
+Topology Heading: 77.532
+Angular Difference: 108.53 degrees
+Coordinates: [11.60538, 53.80582]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622234405194397091
+Partition ID: 23606617
+Sign Heading: 83
+Topology Heading: 260.374
+Angular Difference: 177.37 degrees
+Coordinates: [10.99981, 50.85045]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622234404173774672
+Partition ID: 23606617
+Sign Heading: 83
+Topology Heading: 260.374
+Angular Difference: 177.37 degrees
+Coordinates: [10.99982, 50.85045]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621800204704796055
+Partition ID: 23600299
+Sign Heading: 112
+Topology Heading: 111.758
+Angular Difference: 0.24 degrees
+Coordinates: [8.56142, 49.14747]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1623044201860442531
+Partition ID: 23618401
+Sign Heading: 315
+Topology Heading: 348.681
+Angular Difference: 33.68 degrees
+Coordinates: [13.45758, 52.46456]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1623044181023742324
+Partition ID: 23618401
+Sign Heading: 154
+Topology Heading: 145.791
+Angular Difference: 8.21 degrees
+Coordinates: [13.52317, 52.39242]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621758594219739695
+Partition ID: 23599693
+Sign Heading: 105
+Topology Heading: 107.829
+Angular Difference: 2.83 degrees
+Coordinates: [6.62698, 49.44196]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622265583906601127
+Partition ID: 23607071
+Sign Heading: 353
+Topology Heading: 172.422
+Angular Difference: 179.42 degrees
+Coordinates: [10.51569, 52.30644]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621752876050240343
+Partition ID: 23599610
+Sign Heading: 246
+Topology Heading: 245.877
+Angular Difference: 0.12 degrees
+Coordinates: [8.16832, 49.14067]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621752884171909494
+Partition ID: 23599610
+Sign Heading: 200
+Topology Heading: 291.372
+Angular Difference: 91.37 degrees
+Coordinates: [8.15384, 49.1567]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621785253739312981
+Partition ID: 23600081
+Sign Heading: 76
+Topology Heading: 80.098
+Angular Difference: 4.1 degrees
+Coordinates: [8.19284, 49.98672]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621785251138830657
+Partition ID: 23600081
+Sign Heading: 35
+Topology Heading: 215.906
+Angular Difference: 179.09 degrees
+Coordinates: [8.25448, 49.96517]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622244977470103447
+Partition ID: 23606771
+Sign Heading: 318
+Topology Heading: 323.173
+Angular Difference: 5.17 degrees
+Coordinates: [11.03483, 51.80582]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622265023553125278
+Partition ID: 23607063
+Sign Heading: 330
+Topology Heading: 85.703
+Angular Difference: 115.7 degrees
+Coordinates: [10.49411, 52.13643]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622257181594421447
+Partition ID: 23606948
+Sign Heading: 84
+Topology Heading: 80.543
+Angular Difference: 3.46 degrees
+Coordinates: [8.68766, 53.17309]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622257181044599251
+Partition ID: 23606948
+Sign Heading: 81
+Topology Heading: 80.543
+Angular Difference: 0.46 degrees
+Coordinates: [8.68766, 53.17309]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621759123294045785
+Partition ID: 23599701
+Sign Heading: 135
+Topology Heading: 131.743
+Angular Difference: 3.26 degrees
+Coordinates: [7.00239, 49.22638]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621759150762275691
+Partition ID: 23599701
+Sign Heading: 176
+Topology Heading: 151.966
+Angular Difference: 24.03 degrees
+Coordinates: [6.95378, 49.29318]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621759125981153440
+Partition ID: 23599701
+Sign Heading: 283
+Topology Heading: 67.656
+Angular Difference: 144.66 degrees
+Coordinates: [7.0162, 49.22119]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621759111191018930
+Partition ID: 23599701
+Sign Heading: 198
+Topology Heading: 181.936
+Angular Difference: 16.06 degrees
+Coordinates: [6.98268, 49.23598]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622247141507479087
+Partition ID: 23606802
+Sign Heading: 340
+Topology Heading: 74.113
+Angular Difference: 94.11 degrees
+Coordinates: [8.852, 52.19524]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622237235004806242
+Partition ID: 23606658
+Sign Heading: 175
+Topology Heading: 86.624
+Angular Difference: 88.38 degrees
+Coordinates: [9.87834, 51.49109]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622247857146899135
+Partition ID: 23606813
+Sign Heading: 193
+Topology Heading: 192.801
+Angular Difference: 0.2 degrees
+Coordinates: [9.10947, 52.22378]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1623131007340159978
+Partition ID: 23619664
+Sign Heading: 208
+Topology Heading: 209.185
+Angular Difference: 1.19 degrees
+Coordinates: [12.38014, 53.4959]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622230827836280980
+Partition ID: 23606565
+Sign Heading: 6
+Topology Heading: 166.099
+Angular Difference: 160.1 degrees
+Coordinates: [10.17858, 51.00638]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621759000813647846
+Partition ID: 23599699
+Sign Heading: 142
+Topology Heading: 322.939
+Angular Difference: 179.06 degrees
+Coordinates: [6.77284, 49.35256]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622257952225476716
+Partition ID: 23606960
+Sign Heading: 265
+Topology Heading: 266.224
+Angular Difference: 1.22 degrees
+Coordinates: [8.81519, 53.1114]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621758856934526558
+Partition ID: 23599697
+Sign Heading: 45
+Topology Heading: 94.094
+Angular Difference: 49.09 degrees
+Coordinates: [6.82029, 49.25072]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621758855153193153
+Partition ID: 23599697
+Sign Heading: 45
+Topology Heading: 94.094
+Angular Difference: 49.09 degrees
+Coordinates: [6.82029, 49.25072]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622259731657061345
+Partition ID: 23606986
+Sign Heading: 246
+Topology Heading: 252.564
+Angular Difference: 6.56 degrees
+Coordinates: [9.17802, 53.00308]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622255631374193312
+Partition ID: 23606926
+Sign Heading: 81
+Topology Heading: 253.455
+Angular Difference: 172.46 degrees
+Coordinates: [8.66043, 53.03086]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622255628128648763
+Partition ID: 23606926
+Sign Heading: 286
+Topology Heading: 32.338
+Angular Difference: 106.34 degrees
+Coordinates: [8.65938, 53.03179]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622256753575951325
+Partition ID: 23606942
+Sign Heading: 234
+Topology Heading: 2.104
+Angular Difference: 128.1 degrees
+Coordinates: [9.02907, 53.05363]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622256757637732812
+Partition ID: 23606942
+Sign Heading: 72
+Topology Heading: 205.228
+Angular Difference: 133.23 degrees
+Coordinates: [9.0322, 53.05148]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1623045212211940718
+Partition ID: 23618416
+Sign Heading: 251
+Topology Heading: 74.563
+Angular Difference: 176.44 degrees
+Coordinates: [13.79074, 52.38963]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622265434340944084
+Partition ID: 23607069
+Sign Heading: 326
+Topology Heading: 290.157
+Angular Difference: 35.84 degrees
+Coordinates: [10.49012, 52.21079]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622255736353118156
+Partition ID: 23606927
+Sign Heading: 298
+Topology Heading: 94.897
+Angular Difference: 156.9 degrees
+Coordinates: [8.7789, 53.06891]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622253638793174820
+Partition ID: 23606897
+Sign Heading: 11
+Topology Heading: 164.161
+Angular Difference: 153.16 degrees
+Coordinates: [9.63435, 52.41926]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622604560811073713
+Partition ID: 23612004
+Sign Heading: 220
+Topology Heading: 225.115
+Angular Difference: 5.12 degrees
+Coordinates: [12.14222, 49.59187]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622606714195163288
+Partition ID: 23612035
+Sign Heading: 90
+Topology Heading: 56.891
+Angular Difference: 33.11 degrees
+Coordinates: [11.41133, 50.01955]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621790734535554550
+Partition ID: 23600161
+Sign Heading: 117
+Topology Heading: 101.018
+Angular Difference: 15.98 degrees
+Coordinates: [8.57206, 48.17793]
+=> Direction consistent
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622233813343598399
+Partition ID: 23606608
+Sign Heading: 352
+Topology Heading: 166.628
+Angular Difference: 174.63 degrees
+Coordinates: [10.96226, 50.70388]
+=> Directional mismatch detected (Case 5)
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622237648242676379
+Partition ID: 23606664
+Sign Heading: 282
+Topology Heading: 268.301
+Angular Difference: 13.7 degrees
+Coordinates: [9.87703, 51.58322]
+=> Direction consistent
+------------------------------------------------------------
