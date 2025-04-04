@@ -1,0 +1,4 @@
+Functional Class 2: Average Speed = 74.00 kph
+Functional Class 3: Average Speed = 66.00 kph
+Functional Class 4: Average Speed = 53.33 kph
+Functional Class 5: Average Speed = 42.00 kph

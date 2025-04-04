@@ -1,0 +1,2366 @@
+[
+  {
+    "validation_id": "urn:here::here:signs:1623128752571438692",
+    "validation_coordinates": [
+      11.60538,
+      53.80582
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1623128752571438692",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          11.60538429,
+          53.80582032
+        ],
+        "distance": 4.301918176883261e-06,
+        "observationCounts": {
+          "NTimesObserved": 3,
+          "NInputsObserved": 3,
+          "NInputsObservable": 3
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623128753014481505",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          11.60554502,
+          53.80528873
+        ],
+        "distance": 0.000556308739186809,
+        "observationCounts": {
+          "NTimesObserved": 8,
+          "NInputsObserved": 4,
+          "NInputsObservable": 4
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622234405194397091",
+    "validation_coordinates": [
+      10.99981,
+      50.85045
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622234404173774672",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.99982345,
+          50.85045271
+        ],
+        "distance": 1.3720298829043571e-05,
+        "observationCounts": {
+          "NTimesObserved": 29,
+          "NInputsObserved": 29,
+          "NInputsObservable": 29
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622234405194397091",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.99981469,
+          50.85045082
+        ],
+        "distance": 4.761144818806024e-06,
+        "observationCounts": {
+          "NTimesObserved": "49",
+          "NInputsObserved": "49",
+          "NInputsObservable": "45"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622234404173774672",
+    "validation_coordinates": [
+      10.99982,
+      50.85045
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622234404173774672",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.99982345,
+          50.85045271
+        ],
+        "distance": 4.387094708257563e-06,
+        "observationCounts": {
+          "NTimesObserved": 29,
+          "NInputsObserved": 29,
+          "NInputsObservable": 29
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622234405194397091",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.99981469,
+          50.85045082
+        ],
+        "distance": 5.372941466368223e-06,
+        "observationCounts": {
+          "NTimesObserved": "49",
+          "NInputsObserved": "49",
+          "NInputsObservable": "45"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621800204704796055",
+    "validation_coordinates": [
+      8.56142,
+      49.14747
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621800204704796055",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.56142012,
+          49.14747236
+        ],
+        "distance": 2.363048881417997e-06,
+        "observationCounts": {
+          "NTimesObserved": 60,
+          "NInputsObserved": 60,
+          "NInputsObservable": 67
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1623044201860442531",
+    "validation_coordinates": [
+      13.45758,
+      52.46456
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1623044201860442531",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.45757665,
+          52.46456223
+        ],
+        "distance": 4.024350879264044e-06,
+        "observationCounts": {
+          "NTimesObserved": "36",
+          "NInputsObserved": "36",
+          "NInputsObservable": "36"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1623044181023742324",
+    "validation_coordinates": [
+      13.52317,
+      52.39242
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1623044181267200586",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.5230999,
+          52.3932488
+        ],
+        "distance": 0.0008317592500244695,
+        "observationCounts": {
+          "NTimesObserved": 5,
+          "NInputsObserved": 5,
+          "NInputsObservable": 7
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044181409579472",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          13.52299251,
+          52.39273127
+        ],
+        "distance": 0.00035831789377388485,
+        "observationCounts": {
+          "NTimesObserved": 73,
+          "NInputsObserved": 54,
+          "NInputsObservable": 85
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044181880513348",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          13.52378816,
+          52.39290969
+        ],
+        "distance": 0.0007886178299418065,
+        "observationCounts": {
+          "NTimesObserved": 25,
+          "NInputsObserved": 14,
+          "NInputsObservable": 24
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044182780181072",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          13.52378529,
+          52.39290311
+        ],
+        "distance": 0.0007822896242417759,
+        "observationCounts": {
+          "NTimesObserved": 4,
+          "NInputsObserved": 2,
+          "NInputsObservable": 2
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044183119803772",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.52322565,
+          52.39330251
+        ],
+        "distance": 0.0008842628696231937,
+        "observationCounts": {
+          "NTimesObserved": 6,
+          "NInputsObserved": 6,
+          "NInputsObservable": 7
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044181023742324",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.523174369493741,
+          52.392423414620644
+        ],
+        "distance": 5.545458474244046e-06,
+        "observationCounts": null
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044182766552658",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.523288626858962,
+          52.39246509503675
+        ],
+        "distance": 0.00012690899891768504,
+        "observationCounts": null
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044183387551151",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.523227103115296,
+          52.393301808044356
+        ],
+        "distance": 0.0008836550191477993,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621758594219739695",
+    "validation_coordinates": [
+      6.62698,
+      49.44196
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621758592957567265",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          6.62707949,
+          49.441976
+        ],
+        "distance": 0.0001007683487007918,
+        "observationCounts": {
+          "NTimesObserved": 5,
+          "NInputsObserved": 5,
+          "NInputsObservable": 5
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621758593473544541",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          6.62642636,
+          49.44197689
+        ],
+        "distance": 0.0005538975732927328,
+        "observationCounts": {
+          "NTimesObserved": 6,
+          "NInputsObserved": 3,
+          "NInputsObservable": 3
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621758594219739695",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.62697969,
+          49.44195826
+        ],
+        "distance": 1.767399221003846e-06,
+        "observationCounts": {
+          "NTimesObserved": 3,
+          "NInputsObserved": 3,
+          "NInputsObservable": 3
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621758596323058557",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          6.62663643,
+          49.44189991
+        ],
+        "distance": 0.00034878525341629706,
+        "observationCounts": {
+          "NTimesObserved": 39,
+          "NInputsObserved": 35,
+          "NInputsObservable": 51
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622265583906601127",
+    "validation_coordinates": [
+      10.51569,
+      52.30644
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622265583906601127",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.515689232735422,
+          52.306443596577054
+        ],
+        "distance": 3.6775075015139893e-06,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622232746136595537",
+    "validation_coordinates": [
+      10.68595,
+      50.66748
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622232746136595537",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.68594953,
+          50.66747663
+        ],
+        "distance": 3.4026166348186597e-06,
+        "observationCounts": {
+          "NTimesObserved": 7,
+          "NInputsObserved": 7,
+          "NInputsObservable": 7
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622232746147978017",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.68507325,
+          50.66752366
+        ],
+        "distance": 0.0008778364073674723,
+        "observationCounts": {
+          "NTimesObserved": 232,
+          "NInputsObserved": 202,
+          "NInputsObservable": 328
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621752874458049432",
+    "validation_coordinates": [
+      8.16271,
+      49.13895
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621752873002965723",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.16325852,
+          49.13905394
+        ],
+        "distance": 0.0005582810349615625,
+        "observationCounts": {
+          "NTimesObserved": 34,
+          "NInputsObserved": 34,
+          "NInputsObservable": 34
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621752873109621379",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.16333774,
+          49.13903276
+        ],
+        "distance": 0.0006331719554734826,
+        "observationCounts": {
+          "NTimesObserved": "30",
+          "NInputsObserved": "30",
+          "NInputsObservable": "42"
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621752873413823729",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.16364206,
+          49.13908803
+        ],
+        "distance": 0.0009422250922688554,
+        "observationCounts": {
+          "NTimesObserved": 15,
+          "NInputsObserved": 15,
+          "NInputsObservable": 18
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621752874458049432",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.16270644,
+          49.13894509
+        ],
+        "distance": 6.064791836708584e-06,
+        "observationCounts": {
+          "NTimesObserved": 34,
+          "NInputsObserved": 34,
+          "NInputsObservable": 35
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621752876050240343",
+    "validation_coordinates": [
+      8.16832,
+      49.14067
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621752874048719474",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.16748153,
+          49.1404862
+        ],
+        "distance": 0.0008583789261743676,
+        "observationCounts": {
+          "NTimesObserved": 35,
+          "NInputsObserved": 31,
+          "NInputsObservable": 38
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621752875775382149",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.16782886,
+          49.14053035
+        ],
+        "distance": 0.000510608090515373,
+        "observationCounts": {
+          "NTimesObserved": 11,
+          "NInputsObserved": 11,
+          "NInputsObservable": 20
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621752876050240343",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.16831829,
+          49.14067207
+        ],
+        "distance": 2.6849581004075602e-06,
+        "observationCounts": {
+          "NTimesObserved": 19,
+          "NInputsObserved": 19,
+          "NInputsObservable": 19
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621752884171909494",
+    "validation_coordinates": [
+      8.15384,
+      49.1567
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621752881260790835",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.15419172,
+          49.15681328
+        ],
+        "distance": 0.00036951226880814784,
+        "observationCounts": {
+          "NTimesObserved": 21,
+          "NInputsObserved": 19,
+          "NInputsObservable": 24
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621752881986319312",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.15354295,
+          49.15674672
+        ],
+        "distance": 0.0003007016143957931,
+        "observationCounts": {
+          "NTimesObserved": "6",
+          "NInputsObserved": "10",
+          "NInputsObservable": "8"
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621752884171909494",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.1538361,
+          49.15669894
+        ],
+        "distance": 4.04148487740256e-06,
+        "observationCounts": {
+          "NTimesObserved": "19",
+          "NInputsObserved": "19",
+          "NInputsObservable": "22"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622231838998022556",
+    "validation_coordinates": [
+      10.40881,
+      51.00133
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622231838998022556",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.40880597,
+          51.00133253
+        ],
+        "distance": 4.758340045732065e-06,
+        "observationCounts": {
+          "NTimesObserved": 6,
+          "NInputsObserved": 6,
+          "NInputsObservable": 6
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622231840296807374",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.40872615,
+          51.00108214
+        ],
+        "distance": 0.0002616589423296298,
+        "observationCounts": {
+          "NTimesObserved": 29,
+          "NInputsObserved": 29,
+          "NInputsObservable": 30
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622231842065225393",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.40951209,
+          51.00147964
+        ],
+        "distance": 0.0007178596643478,
+        "observationCounts": {
+          "NTimesObserved": 80,
+          "NInputsObserved": 56,
+          "NInputsObservable": 60
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622231838615171793",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.40829312116234,
+          51.00048487511147
+        ],
+        "distance": 0.0009906562522104649,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622257063834502472",
+    "validation_coordinates": [
+      8.5876,
+      53.18252
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622257063834502472",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.5875974,
+          53.18251569
+        ],
+        "distance": 5.033497784966725e-06,
+        "observationCounts": {
+          "NTimesObserved": "19",
+          "NInputsObserved": "19",
+          "NInputsObservable": "24"
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622257063952332360",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.58686582,
+          53.18282947
+        ],
+        "distance": 0.0007967383217238543,
+        "observationCounts": {
+          "NTimesObserved": 25,
+          "NInputsObserved": 18,
+          "NInputsObservable": 18
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622257064410816270",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.58772026,
+          53.18260673
+        ],
+        "distance": 0.000148271914066591,
+        "observationCounts": {
+          "NTimesObserved": 4,
+          "NInputsObserved": 4,
+          "NInputsObservable": 4
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621785253739312981",
+    "validation_coordinates": [
+      8.19284,
+      49.98672
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621785252114779537",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.19372567,
+          49.98703698
+        ],
+        "distance": 0.0009406846811224902,
+        "observationCounts": {
+          "NTimesObserved": 82,
+          "NInputsObserved": 80,
+          "NInputsObservable": 92
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621785253739312981",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.19283746,
+          49.98671748
+        ],
+        "distance": 3.57798825869014e-06,
+        "observationCounts": {
+          "NTimesObserved": 20,
+          "NInputsObserved": 20,
+          "NInputsObservable": 20
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621785255339948018",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.19372567,
+          49.98703698
+        ],
+        "distance": 0.0009406846811224902,
+        "observationCounts": {
+          "NTimesObserved": 82,
+          "NInputsObserved": 80,
+          "NInputsObservable": 92
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621785251138830657",
+    "validation_coordinates": [
+      8.25448,
+      49.96517
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621785251138830657",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.25447909,
+          49.96516577
+        ],
+        "distance": 4.326777093110232e-06,
+        "observationCounts": {
+          "NTimesObserved": 28,
+          "NInputsObserved": 28,
+          "NInputsObservable": 52
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621785568679906047",
+    "validation_coordinates": [
+      8.29379,
+      50.03077
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621785568679906047",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.29378727,
+          50.03077171
+        ],
+        "distance": 3.2213351306130246e-06,
+        "observationCounts": {
+          "NTimesObserved": 37,
+          "NInputsObserved": 37,
+          "NInputsObservable": 97
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622244977470103447",
+    "validation_coordinates": [
+      11.03483,
+      51.80582
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622244977470103447",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          11.03483059,
+          51.80581909
+        ],
+        "distance": 1.0845275449674223e-06,
+        "observationCounts": {
+          "NTimesObserved": 21,
+          "NInputsObserved": 21,
+          "NInputsObservable": 21
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622265023553125278",
+    "validation_coordinates": [
+      10.49411,
+      52.13643
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622265021092183242",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.49410802,
+          52.13642577
+        ],
+        "distance": 4.6704710629537784e-06,
+        "observationCounts": {
+          "NTimesObserved": 34,
+          "NInputsObserved": 34,
+          "NInputsObservable": 56
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622265021305198002",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.4939873,
+          52.13679799
+        ],
+        "distance": 0.0003879071152999077,
+        "observationCounts": {
+          "NTimesObserved": 6,
+          "NInputsObserved": 6,
+          "NInputsObservable": 7
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622265021469406842",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.49389889,
+          52.13628917
+        ],
+        "distance": 0.0002537725773192571,
+        "observationCounts": {
+          "NTimesObserved": 3,
+          "NInputsObserved": 3,
+          "NInputsObservable": 3
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622265023553125278",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.49411143,
+          52.1364319
+        ],
+        "distance": 2.3780033655270978e-06,
+        "observationCounts": {
+          "NTimesObserved": "1",
+          "NInputsObserved": "1",
+          "NInputsObservable": "52"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622257181594421447",
+    "validation_coordinates": [
+      8.68766,
+      53.17309
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622257181044599251",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.68766024,
+          53.17309191
+        ],
+        "distance": 1.9250194751118687e-06,
+        "observationCounts": {
+          "NTimesObserved": 4,
+          "NInputsObserved": 4,
+          "NInputsObservable": 5
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622257181594421447",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.687664914539376,
+          53.173089746311206
+        ],
+        "distance": 4.921082735226891e-06,
+        "observationCounts": null
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622257182052723293",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.687120965058106,
+          53.17316002411666
+        ],
+        "distance": 0.0005435642054949323,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622257181044599251",
+    "validation_coordinates": [
+      8.68766,
+      53.17309
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622257181044599251",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.68766024,
+          53.17309191
+        ],
+        "distance": 1.9250194751118687e-06,
+        "observationCounts": {
+          "NTimesObserved": 4,
+          "NInputsObserved": 4,
+          "NInputsObservable": 5
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622257181594421447",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.687664914539376,
+          53.173089746311206
+        ],
+        "distance": 4.921082735226891e-06,
+        "observationCounts": null
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622257182052723293",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.687120965058106,
+          53.17316002411666
+        ],
+        "distance": 0.0005435642054949323,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759123294045785",
+    "validation_coordinates": [
+      7.00239,
+      49.22638
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759122681245062",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          7.00247902,
+          49.22645507
+        ],
+        "distance": 0.00011644769340848263,
+        "observationCounts": {
+          "NTimesObserved": 24,
+          "NInputsObserved": 23,
+          "NInputsObservable": 26
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621759123294045785",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          7.002391521456322,
+          49.22638160602964
+        ],
+        "distance": 2.212274971445897e-06,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759106830864158",
+    "validation_coordinates": [
+      6.96245,
+      49.23333
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759106830864158",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.96245003,
+          49.23332518
+        ],
+        "distance": 4.820093361000722e-06,
+        "observationCounts": {
+          "NTimesObserved": 24,
+          "NInputsObserved": 24,
+          "NInputsObservable": 24
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621759107241415319",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          6.962316234446948,
+          49.233513701835754
+        ],
+        "distance": 0.00022724345456352277,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759150762275691",
+    "validation_coordinates": [
+      6.95378,
+      49.29318
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759150762275691",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.95378099,
+          49.29318482
+        ],
+        "distance": 4.920619880575818e-06,
+        "observationCounts": {
+          "NTimesObserved": 21,
+          "NInputsObserved": 21,
+          "NInputsObservable": 21
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759109660268219",
+    "validation_coordinates": [
+      6.98049,
+      49.23637
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759109660268219",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.98048836,
+          49.23636783
+        ],
+        "distance": 2.7200183836965043e-06,
+        "observationCounts": {
+          "NTimesObserved": 2,
+          "NInputsObserved": 2,
+          "NInputsObservable": 2
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621759112349775936",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.98120404,
+          49.23597153
+        ],
+        "distance": 0.0008176988825358725,
+        "observationCounts": {
+          "NTimesObserved": 19,
+          "NInputsObserved": 19,
+          "NInputsObservable": 53
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621759109475193293",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          6.980714752629789,
+          49.236026520274876
+        ],
+        "distance": 0.00041047785100860513,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759125981153440",
+    "validation_coordinates": [
+      7.0162,
+      49.22119
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759125981153440",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          7.01620203,
+          49.22118519
+        ],
+        "distance": 5.220823689565845e-06,
+        "observationCounts": {
+          "NTimesObserved": 4,
+          "NInputsObserved": 4,
+          "NInputsObservable": 4
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759111191018930",
+    "validation_coordinates": [
+      6.98268,
+      49.23598
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759111191018930",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.98267723,
+          49.23597935
+        ],
+        "distance": 2.845241641099254e-06,
+        "observationCounts": {
+          "NTimesObserved": 41,
+          "NInputsObserved": 29,
+          "NInputsObservable": 30
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621759109726035401",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          6.982955618660557,
+          49.23616852307051
+        ],
+        "distance": 0.00033392603097495693,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622247141507479087",
+    "validation_coordinates": [
+      8.852,
+      52.19524
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622247141125334758",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.85180298,
+          52.1952166
+        ],
+        "distance": 0.0001984047388541464,
+        "observationCounts": {
+          "NTimesObserved": 58,
+          "NInputsObserved": 58,
+          "NInputsObservable": 55
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622247141507479087",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.85199589,
+          52.19524333
+        ],
+        "distance": 5.289706985820403e-06,
+        "observationCounts": {
+          "NTimesObserved": 22,
+          "NInputsObserved": 22,
+          "NInputsObservable": 55
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622247143332614595",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.85208229,
+          52.19503413
+        ],
+        "distance": 0.0002217072416451641,
+        "observationCounts": {
+          "NTimesObserved": 4,
+          "NInputsObserved": 4,
+          "NInputsObservable": 4
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622247141725021781",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.851800038188722,
+          52.19521258621573
+        ],
+        "distance": 0.00020183221134745043,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622237235004806242",
+    "validation_coordinates": [
+      9.87834,
+      51.49109
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622237235004806242",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.87833555,
+          51.49108667
+        ],
+        "distance": 5.5580032380150595e-06,
+        "observationCounts": {
+          "NTimesObserved": "28",
+          "NInputsObserved": "28",
+          "NInputsObservable": "35"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759046259604233",
+    "validation_coordinates": [
+      6.86146,
+      49.24494
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759046259604233",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.86145972,
+          49.24493882
+        ],
+        "distance": 1.2127654330883105e-06,
+        "observationCounts": {
+          "NTimesObserved": 33,
+          "NInputsObserved": 33,
+          "NInputsObservable": 36
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622604707805324026",
+    "validation_coordinates": [
+      12.14647,
+      49.70047
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622604707805324026",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          12.14646951,
+          49.70047333
+        ],
+        "distance": 3.365857987329437e-06,
+        "observationCounts": {
+          "NTimesObserved": 26,
+          "NInputsObserved": 26,
+          "NInputsObservable": 26
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622222364218865141",
+    "validation_coordinates": [
+      8.51692,
+      51.94347
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622222364218865141",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.51692257,
+          51.94346717
+        ],
+        "distance": 3.8228000203376906e-06,
+        "observationCounts": {
+          "NTimesObserved": "1",
+          "NInputsObserved": "1",
+          "NInputsObservable": "86"
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622222364828467190",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.51743825,
+          51.94350382
+        ],
+        "distance": 0.0005193523417669544,
+        "observationCounts": {
+          "NTimesObserved": 55,
+          "NInputsObserved": 28,
+          "NInputsObservable": 32
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622222365130179329",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.51696998,
+          51.94342944
+        ],
+        "distance": 6.436702571660104e-05,
+        "observationCounts": {
+          "NTimesObserved": 53,
+          "NInputsObserved": 41,
+          "NInputsObservable": 80
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622247857146899135",
+    "validation_coordinates": [
+      9.10947,
+      52.22378
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622247855658232820",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.11000319,
+          52.22421217
+        ],
+        "distance": 0.0006863399194302234,
+        "observationCounts": {
+          "NTimesObserved": 18,
+          "NInputsObserved": 11,
+          "NInputsObservable": 16
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622247856622113230",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.10969901,
+          52.22432547
+        ],
+        "distance": 0.0005915936958746154,
+        "observationCounts": {
+          "NTimesObserved": 29,
+          "NInputsObserved": 29,
+          "NInputsObservable": 33
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622247857146899135",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.10947338,
+          52.2237788
+        ],
+        "distance": 3.5866976461342624e-06,
+        "observationCounts": {
+          "NTimesObserved": 45,
+          "NInputsObserved": 44,
+          "NInputsObservable": 44
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621789558273461066",
+    "validation_coordinates": [
+      8.8006,
+      47.85505
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621789558273461066",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.80060231,
+          47.85504749
+        ],
+        "distance": 3.4111874784354285e-06,
+        "observationCounts": {
+          "NTimesObserved": 16,
+          "NInputsObserved": 15,
+          "NInputsObservable": 16
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1623131007340159978",
+    "validation_coordinates": [
+      12.38014,
+      53.4959
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1623131007340159978",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          12.38014047,
+          53.49590453
+        ],
+        "distance": 4.554316631916284e-06,
+        "observationCounts": {
+          "NTimesObserved": 17,
+          "NInputsObserved": 17,
+          "NInputsObservable": 18
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623131008556240577",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          12.38055372,
+          53.49623888
+        ],
+        "distance": 0.0005347933178341157,
+        "observationCounts": {
+          "NTimesObserved": 16,
+          "NInputsObserved": 16,
+          "NInputsObservable": 18
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623131009777825346",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          12.38077709,
+          53.49639295
+        ],
+        "distance": 0.0008055329730068615,
+        "observationCounts": {
+          "NTimesObserved": 6,
+          "NInputsObserved": 6,
+          "NInputsObservable": 19
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622230827836280980",
+    "validation_coordinates": [
+      10.17858,
+      51.00638
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622230825833576036",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.17871678,
+          51.00670948
+        ],
+        "distance": 0.0003567433794740251,
+        "observationCounts": {
+          "NTimesObserved": 9,
+          "NInputsObserved": 5,
+          "NInputsObservable": 8
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622230827254577462",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.17835449,
+          51.00622426
+        ],
+        "distance": 0.00027406150349684744,
+        "observationCounts": {
+          "NTimesObserved": 20,
+          "NInputsObserved": 20,
+          "NInputsObservable": 22
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622230827417759499",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.17843336,
+          51.00553571
+        ],
+        "distance": 0.0008569299234511047,
+        "observationCounts": {
+          "NTimesObserved": 17,
+          "NInputsObserved": 15,
+          "NInputsObservable": 22
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622230827836280980",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.17858276,
+          51.00638405
+        ],
+        "distance": 4.9010305043857454e-06,
+        "observationCounts": {
+          "NTimesObserved": 6,
+          "NInputsObserved": 6,
+          "NInputsObservable": 8
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621759000813647846",
+    "validation_coordinates": [
+      6.77284,
+      49.35256
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621759000813647846",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.77284147,
+          49.35255723
+        ],
+        "distance": 3.1358890239531416e-06,
+        "observationCounts": {
+          "NTimesObserved": 8,
+          "NInputsObserved": 8,
+          "NInputsObservable": 8
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621759001940616706",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.77267157,
+          49.35247301
+        ],
+        "distance": 0.00018956773195908524,
+        "observationCounts": {
+          "NTimesObserved": 18,
+          "NInputsObserved": 14,
+          "NInputsObservable": 16
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1623044227401561812",
+    "validation_coordinates": [
+      13.36133,
+      52.4745
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1623044230663285986",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.36111116,
+          52.47459082
+        ],
+        "distance": 0.0002369371604475589,
+        "observationCounts": {
+          "NTimesObserved": 23,
+          "NInputsObserved": 23,
+          "NInputsObservable": 36
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044227401561812",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.361326383021094,
+          52.47449884433965
+        ],
+        "distance": 3.79711564935328e-06,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1623044230663285986",
+    "validation_coordinates": [
+      13.36111,
+      52.47459
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1623044230663285986",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.36111116,
+          52.47459082
+        ],
+        "distance": 1.4205632708619653e-06,
+        "observationCounts": {
+          "NTimesObserved": 23,
+          "NInputsObserved": 23,
+          "NInputsObservable": 36
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1623044227401561812",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.361326383021094,
+          52.47449884433965
+        ],
+        "distance": 0.0002347998429121037,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622257952225476716",
+    "validation_coordinates": [
+      8.81519,
+      53.1114
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622257952225476716",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.81519126,
+          53.11139609
+        ],
+        "distance": 4.1080043856562706e-06,
+        "observationCounts": {
+          "NTimesObserved": 15,
+          "NInputsObserved": 15,
+          "NInputsObservable": 17
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622257954577153188",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.81571588,
+          53.11143055
+        ],
+        "distance": 0.0005267666247033734,
+        "observationCounts": {
+          "NTimesObserved": 13,
+          "NInputsObserved": 13,
+          "NInputsObservable": 14
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621758856934526558",
+    "validation_coordinates": [
+      6.82029,
+      49.25072
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621758855153193153",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.82029182,
+          49.25072384
+        ],
+        "distance": 4.249470553258458e-06,
+        "observationCounts": {
+          "NTimesObserved": 48,
+          "NInputsObserved": 32,
+          "NInputsObservable": 52
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621758856934526558",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.82028689,
+          49.25072339
+        ],
+        "distance": 4.600456496172895e-06,
+        "observationCounts": {
+          "NTimesObserved": "4",
+          "NInputsObserved": "4",
+          "NInputsObservable": "15"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621758855153193153",
+    "validation_coordinates": [
+      6.82029,
+      49.25072
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621758855153193153",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.82029182,
+          49.25072384
+        ],
+        "distance": 4.249470553258458e-06,
+        "observationCounts": {
+          "NTimesObserved": 48,
+          "NInputsObserved": 32,
+          "NInputsObservable": 52
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621758856934526558",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.82028689,
+          49.25072339
+        ],
+        "distance": 4.600456496172895e-06,
+        "observationCounts": {
+          "NTimesObserved": "4",
+          "NInputsObserved": "4",
+          "NInputsObservable": "15"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621758926869971323",
+    "validation_coordinates": [
+      6.74129,
+      49.34079
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621758926869971323",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          6.74129034,
+          49.34079178
+        ],
+        "distance": 1.8121810114349963e-06,
+        "observationCounts": {
+          "NTimesObserved": 10,
+          "NInputsObserved": 10,
+          "NInputsObservable": 23
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622259731087861489",
+    "validation_coordinates": [
+      9.17632,
+      52.99991
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622259731087861489",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.17631858,
+          52.999913
+        ],
+        "distance": 3.3190962622228924e-06,
+        "observationCounts": {
+          "NTimesObserved": 23,
+          "NInputsObserved": 23,
+          "NInputsObservable": 24
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622259731657061345",
+    "validation_coordinates": [
+      9.17802,
+      53.00308
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622259729861510762",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.17858807,
+          53.00314474
+        ],
+        "distance": 0.0005717471403520229,
+        "observationCounts": {
+          "NTimesObserved": 108,
+          "NInputsObserved": 90,
+          "NInputsObservable": 58
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622259731657061345",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.17801588,
+          53.00307985
+        ],
+        "distance": 4.1227296780237404e-06,
+        "observationCounts": {
+          "NTimesObserved": 29,
+          "NInputsObserved": 21,
+          "NInputsObservable": 21
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622259732715414061",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.17858807,
+          53.00314474
+        ],
+        "distance": 0.0005717471403520229,
+        "observationCounts": {
+          "NTimesObserved": 108,
+          "NInputsObserved": 90,
+          "NInputsObservable": 58
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622255631374193312",
+    "validation_coordinates": [
+      8.66043,
+      53.03086
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622255631088449804",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.66041337,
+          53.03095592
+        ],
+        "distance": 9.735092860326439e-05,
+        "observationCounts": {
+          "NTimesObserved": 34,
+          "NInputsObserved": 32,
+          "NInputsObservable": 34
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622255631374193312",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.66043103,
+          53.03085756
+        ],
+        "distance": 2.6484901320485264e-06,
+        "observationCounts": {
+          "NTimesObserved": 31,
+          "NInputsObserved": 31,
+          "NInputsObservable": 34
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622255628128648763",
+    "validation_coordinates": [
+      8.65938,
+      53.03179
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622255628128648763",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.65938145,
+          53.03179245
+        ],
+        "distance": 2.8469281658030323e-06,
+        "observationCounts": {
+          "NTimesObserved": "31",
+          "NInputsObserved": "30",
+          "NInputsObservable": "30"
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622255631834315500",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.65937839,
+          53.03169036
+        ],
+        "distance": 9.965300647943097e-05,
+        "observationCounts": {
+          "NTimesObserved": 14,
+          "NInputsObserved": 14,
+          "NInputsObservable": 14
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622256753575951325",
+    "validation_coordinates": [
+      9.02907,
+      53.05363
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622256753575951325",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.02906752,
+          53.05363266
+        ],
+        "distance": 3.6367567974209207e-06,
+        "observationCounts": {
+          "NTimesObserved": 10,
+          "NInputsObserved": 10,
+          "NInputsObservable": 11
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622256754046092475",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.02999555,
+          53.05372164
+        ],
+        "distance": 0.0009300756378380415,
+        "observationCounts": {
+          "NTimesObserved": 12,
+          "NInputsObserved": 11,
+          "NInputsObservable": 16
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622256756142464537",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.02929174,
+          53.05433732
+        ],
+        "distance": 0.0007412625783112316,
+        "observationCounts": {
+          "NTimesObserved": 43,
+          "NInputsObserved": 43,
+          "NInputsObservable": 67
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622256756812723172",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.02964264,
+          53.0538408
+        ],
+        "distance": 0.0006102075135572498,
+        "observationCounts": {
+          "NTimesObserved": 13,
+          "NInputsObserved": 12,
+          "NInputsObservable": 22
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622256756353118711",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.029016171904775,
+          53.05265635785982
+        ],
+        "distance": 0.0009751289560730558,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622256757637732812",
+    "validation_coordinates": [
+      9.0322,
+      53.05148
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622256757637732812",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.03219512,
+          53.05148319
+        ],
+        "distance": 5.830137219189153e-06,
+        "observationCounts": {
+          "NTimesObserved": 6,
+          "NInputsObserved": 6,
+          "NInputsObservable": 25
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622256760158927498",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          9.03171047,
+          53.05141906
+        ],
+        "distance": 0.0004933085287110836,
+        "observationCounts": {
+          "NTimesObserved": 64,
+          "NInputsObserved": 28,
+          "NInputsObservable": 56
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1623045212211940718",
+    "validation_coordinates": [
+      13.79074,
+      52.38963
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1623045212211940718",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          13.79073675,
+          52.38963328
+        ],
+        "distance": 4.617456009743554e-06,
+        "observationCounts": {
+          "NTimesObserved": 42,
+          "NInputsObserved": 42,
+          "NInputsObservable": 44
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622265434340944084",
+    "validation_coordinates": [
+      10.49012,
+      52.21079
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622265434340944084",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.49011508,
+          52.21078671
+        ],
+        "distance": 5.918656942244691e-06,
+        "observationCounts": {
+          "NTimesObserved": 8,
+          "NInputsObserved": 8,
+          "NInputsObservable": 8
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622265437189074710",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.489947731308881,
+          52.20983112926793
+        ],
+        "distance": 0.0009742225529931693,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622265489724468724",
+    "validation_coordinates": [
+      10.50579,
+      52.28114
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622265489724468724",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.50578818,
+          52.28113532
+        ],
+        "distance": 5.021434061260966e-06,
+        "observationCounts": {
+          "NTimesObserved": 13,
+          "NInputsObserved": 13,
+          "NInputsObservable": 13
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622255736353118156",
+    "validation_coordinates": [
+      8.7789,
+      53.06891
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622255736353118156",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.77890076,
+          53.06890529
+        ],
+        "distance": 4.770922348742644e-06,
+        "observationCounts": {
+          "NTimesObserved": 32,
+          "NInputsObserved": 32,
+          "NInputsObservable": 48
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622255739289359048",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.77882841,
+          53.06882472
+        ],
+        "distance": 0.00011134543771620989,
+        "observationCounts": {
+          "NTimesObserved": 46,
+          "NInputsObserved": 45,
+          "NInputsObservable": 48
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622253638793174820",
+    "validation_coordinates": [
+      9.63435,
+      52.41926
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622253637079132411",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.63413063009776,
+          52.419227432649244
+        ],
+        "distance": 0.00022177417871365157,
+        "observationCounts": null
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622253638793174820",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.634354480080374,
+          52.41925957499889
+        ],
+        "distance": 4.500194007430005e-06,
+        "observationCounts": null
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622604560811073713",
+    "validation_coordinates": [
+      12.14222,
+      49.59187
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622604560811073713",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          12.1422211,
+          49.59187449
+        ],
+        "distance": 4.6227805506083035e-06,
+        "observationCounts": {
+          "NTimesObserved": 23,
+          "NInputsObserved": 12,
+          "NInputsObservable": 18
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622604561563542690",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          12.1428511,
+          49.59214868
+        ],
+        "distance": 0.0006898911163365689,
+        "observationCounts": {
+          "NTimesObserved": 15,
+          "NInputsObserved": 15,
+          "NInputsObservable": 24
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622606714195163288",
+    "validation_coordinates": [
+      11.41133,
+      50.01955
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622606714195163288",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          11.41132806,
+          50.01955328
+        ],
+        "distance": 3.8107741940533197e-06,
+        "observationCounts": {
+          "NTimesObserved": "7",
+          "NInputsObserved": "7",
+          "NInputsObservable": "23"
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622247500252548645",
+    "validation_coordinates": [
+      8.824,
+      52.21653
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622247500252548645",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.82400493,
+          52.21652886
+        ],
+        "distance": 5.060088931829632e-06,
+        "observationCounts": {
+          "NTimesObserved": 31,
+          "NInputsObserved": 31,
+          "NInputsObservable": 32
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622247501709915210",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.82449638,
+          52.21721905
+        ],
+        "distance": 0.0008492249448156739,
+        "observationCounts": {
+          "NTimesObserved": 16,
+          "NInputsObserved": 16,
+          "NInputsObservable": 16
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1621790734535554550",
+    "validation_coordinates": [
+      8.57206,
+      48.17793
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1621790732124588555",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.57289612,
+          48.17799228
+        ],
+        "distance": 0.0008384363140975319,
+        "observationCounts": {
+          "NTimesObserved": 20,
+          "NInputsObserved": 20,
+          "NInputsObservable": 28
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621790733153797469",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.57260839,
+          48.17778807
+        ],
+        "distance": 0.000566458927902173,
+        "observationCounts": {
+          "NTimesObserved": "18",
+          "NInputsObserved": "18",
+          "NInputsObservable": "22"
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621790734535554550",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          8.57206018,
+          48.17793026
+        ],
+        "distance": 3.162277597134527e-07,
+        "observationCounts": {
+          "NTimesObserved": "70",
+          "NInputsObserved": "70",
+          "NInputsObservable": "76"
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1621790735766566403",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          8.57261648,
+          48.17783058
+        ],
+        "distance": 0.0005652913645202994,
+        "observationCounts": {
+          "NTimesObserved": 7,
+          "NInputsObserved": 7,
+          "NInputsObservable": 8
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622233813343598399",
+    "validation_coordinates": [
+      10.96226,
+      50.70388
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622233810042777303",
+        "sign_type": "HWYEXIT",
+        "sign_coordinates": [
+          10.96251713,
+          50.70323837
+        ],
+        "distance": 0.0006912343262569392,
+        "observationCounts": {
+          "NTimesObserved": 66,
+          "NInputsObserved": 58,
+          "NInputsObservable": 93
+        }
+      },
+      {
+        "sign_id": "urn:here::here:signs:1622233813343598399",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          10.96225666,
+          50.70387712
+        ],
+        "distance": 4.410215412860654e-06,
+        "observationCounts": {
+          "NTimesObserved": 26,
+          "NInputsObserved": 26,
+          "NInputsObservable": 26
+        }
+      }
+    ]
+  },
+  {
+    "validation_id": "urn:here::here:signs:1622237648242676379",
+    "validation_coordinates": [
+      9.87703,
+      51.58322
+    ],
+    "nearby_signs": [
+      {
+        "sign_id": "urn:here::here:signs:1622237648242676379",
+        "sign_type": "MOTORWAY",
+        "sign_coordinates": [
+          9.87702648,
+          51.58322151
+        ],
+        "distance": 3.830208873153269e-06,
+        "observationCounts": {
+          "NTimesObserved": 2,
+          "NInputsObserved": 2,
+          "NInputsObservable": 3
+        }
+      }
+    ]
+  }
+]
