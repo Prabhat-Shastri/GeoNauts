@@ -1,0 +1,111 @@
+Validation ID: urn:here::here:signs:1621752874458049432
+Partition ID: 23599610
+Coordinates: [8.16271, 49.13895]
+  Suggested Topology ID: urn:here::here:Topology:149812942
+    Geometry Type: LineString
+    Coordinates: [[8.16268, 49.13905], [8.16177, 49.13889], [8.1614, 49.13884], [8.16095, 49.13879], [8.1606, 49.13875]]
+    Distance to Validation: 11.33 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:91812893
+    Geometry Type: LineString
+    Coordinates: [[8.16268, 49.13905], [8.16305, 49.13913], [8.16337, 49.1392]]
+    Distance to Validation: 11.33 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:91812898
+    Geometry Type: LineString
+    Coordinates: [[8.16364, 49.13883], [8.16341, 49.13891], [8.16322, 49.13896], [8.16297, 49.13901], [8.16268, 49.13905]]
+    Distance to Validation: 69.16 meters
+    isRamp: True
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622222364218865141
+Partition ID: 23606442
+Coordinates: [8.51692, 51.94347]
+  Suggested Topology ID: urn:here::here:Topology:898383323
+    Geometry Type: LineString
+    Coordinates: [[8.51736, 51.94337], [8.51729, 51.9434], [8.51697, 51.94353]]
+    Distance to Validation: 32.24 meters
+    isRamp: True
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:899104982
+    Geometry Type: LineString
+    Coordinates: [[8.51706, 51.94362], [8.51721, 51.94376], [8.5174, 51.94396], [8.51758, 51.94416], [8.51767, 51.94426], [8.51795, 51.94457], [8.51801, 51.94465], [8.51815, 51.94484], [8.51819, 51.94489]]
+    Distance to Validation: 19.27 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:899105013
+    Geometry Type: LineString
+    Coordinates: [[8.51697, 51.94353], [8.51706, 51.94362]]
+    Distance to Validation: 7.51 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:899105049
+    Geometry Type: LineString
+    Coordinates: [[8.51706, 51.94362], [8.5172, 51.94354], [8.51738, 51.94344], [8.51761, 51.94333], [8.51792, 51.94321], [8.518, 51.94318], [8.51812, 51.94315], [8.51828, 51.94312], [8.51844, 51.94309], [8.51857, 51.9431], [8.51872, 51.94314], [8.51894, 51.94325], [8.51904, 51.94335], [8.51908, 51.94347], [8.51908, 51.94353], [8.51907, 51.94358], [8.51906, 51.94361], [8.51904, 51.94365], [8.51901, 51.94369], [8.51898, 51.94372], [8.51892, 51.94377], [8.51887, 51.9438], [8.51881, 51.94383], [8.51874, 51.94386], [8.51863, 51.9439], [8.5183, 51.94401]]
+    Distance to Validation: 19.27 meters
+    isRamp: True
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1623044227401561812
+Partition ID: 23618402
+Coordinates: [13.36133, 52.4745]
+  Suggested Topology ID: urn:here::here:Topology:146222721
+    Geometry Type: LineString
+    Coordinates: [[13.3616, 52.47458], [13.36131, 52.47467], [13.36118, 52.47471], [13.36099, 52.47478], [13.36072, 52.47489], [13.36043, 52.47503], [13.36014, 52.47517], [13.35999, 52.47525], [13.35979, 52.47535]]
+    Distance to Validation: 20.39 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:182578380
+    Geometry Type: LineString
+    Coordinates: [[13.36296, 52.47423], [13.3627, 52.47429], [13.36241, 52.47436], [13.36203, 52.47445], [13.3616, 52.47458]]
+    Distance to Validation: 114.76 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:92812159
+    Geometry Type: LineString
+    Coordinates: [[13.3616, 52.47458], [13.3618, 52.47469]]
+    Distance to Validation: 20.39 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+  Suggested Topology ID: urn:here::here:Topology:98949966
+    Geometry Type: LineString
+    Coordinates: [[13.3616, 52.47458], [13.36165, 52.47473]]
+    Distance to Validation: 20.39 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1623044230663285986
+Partition ID: 23618402
+Coordinates: [13.36111, 52.47459]
+  Suggested Topology ID: urn:here::here:Topology:146222721
+    Geometry Type: LineString
+    Coordinates: [[13.3616, 52.47458], [13.36131, 52.47467], [13.36118, 52.47471], [13.36099, 52.47478], [13.36072, 52.47489], [13.36043, 52.47503], [13.36014, 52.47517], [13.35999, 52.47525], [13.35979, 52.47535]]
+    Distance to Validation: 33.31 meters
+    isRamp: False
+    isMotorway: False
+    accessCharacteristics (boolean flags): {'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'isDefault': True}
+------------------------------------------------------------
+
+FINAL MATCHED SUMMARY
+============================================================
+Validation ID: urn:here::here:signs:1621752874458049432
+Partition ID: 23599610
+New Topology ID: urn:here::here:Topology:91812898
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622222364218865141
+Partition ID: 23606442
+New Topology ID: urn:here::here:Topology:899105049
+------------------------------------------------------------

@@ -1,36 +1,56 @@
+import os
 import json
-from collections import defaultdict
 
-# Load the GeoJSON data
-with open("relevant_topologies.geojson", "r") as f:
-    geojson_data = json.load(f)
+root_dir = "."
+validation_file = os.path.join(root_dir, "all_validations.geojson")
+output_file = os.path.join(root_dir, "topologies_below_60_kph.txt")
 
-# Dictionary to hold sum and count for averages
-fc_speed_data = defaultdict(lambda: {"sum": 0, "count": 0})
+with open(validation_file, "r") as f:
+    validations = json.load(f)["features"]
 
-# Iterate through features
-for feature in geojson_data["features"]:
-    props = feature.get("properties", {})
+print(f"[DEBUG] Loaded {len(validations)} validations")
 
-    # Get functional class list and speed limit list
-    fc_list = props.get("functionalClass", [])
-    speed_list = props.get("speedLimit") or []
+report_lines = []
 
-    for fc in fc_list:
-        fc_value = fc.get("value")
-        if fc_value in [1, 2, 3, 4, 5]:
-            for speed in speed_list:
-                speed_kph = speed.get("valueKph")
-                if speed_kph is not None:
-                    fc_speed_data[fc_value]["sum"] += speed_kph
-                    fc_speed_data[fc_value]["count"] += 1
+for val in validations:
+    partition_id = str(val["properties"].get("Partition ID"))
+    validation_id = val["properties"].get("Feature ID")
+    relevant_topos_path = os.path.join(root_dir, "relevant_topologies.geojson")
 
-# Write results to a TXT file
-with open("functional_class_speed_averages.txt", "w") as f:
-    for fc_value in sorted(fc_speed_data.keys()):
-        total = fc_speed_data[fc_value]["sum"]
-        count = fc_speed_data[fc_value]["count"]
-        avg = total / count if count > 0 else 0
-        f.write(f"Functional Class {fc_value}: Average Speed = {avg:.2f} kph\n")
+    print(f"[DEBUG] Processing Validation ID: {validation_id}, Partition ID: {partition_id}")
 
-print("Output written to functional_class_speed_averages.txt")
+    if not os.path.exists(relevant_topos_path):
+        continue
+
+    print(f"[DEBUG] Found topology file: {relevant_topos_path}")
+
+    with open(relevant_topos_path, "r") as f:
+        topo_data = json.load(f)
+
+    for feature in topo_data.get("features", []):
+        props = feature.get("properties", {})
+        speed_limits = props.get("speedLimit")
+
+        if speed_limits is None:
+            print(f"[DEBUG] Topology ID {props.get('id', 'Unknown')} has no speedLimit property.")
+            continue
+
+        if not isinstance(speed_limits, list):
+            print(f"[DEBUG] Topology ID {props.get('id', 'Unknown')} has speedLimit in unexpected format: {speed_limits}")
+            continue
+
+        for speed in speed_limits:
+            speed_kph = speed.get("valueKph")
+            if speed_kph is not None:
+                print(f"[DEBUG] Topology ID {props.get('id', 'Unknown')} speedLimit = {speed_kph} kph")
+                if speed_kph < 60:
+                    report_lines.append(f"Validation ID: {validation_id}")
+                    report_lines.append(f"  Topology ID: {props.get('id', 'Unknown')}")
+                    report_lines.append(f"  Speed: {speed_kph} kph")
+                    report_lines.append("-" * 40)
+                    break  # Only report each feature once
+
+with open(output_file, "w") as f:
+    f.write("\n".join(report_lines))
+
+print(f"Topologies with speedLimit < 60 kph saved to {output_file}")

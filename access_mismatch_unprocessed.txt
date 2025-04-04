@@ -1,0 +1,202 @@
+ACCESS MISMATCH REPORT (All Processed Mismatches)
+============================================================
+Validation ID: urn:here::here:signs:1622231838998022556
+Partition ID: 23606580
+Coordinates: [10.40881, 51.00133]
+  -> Original Topology ID: urn:here::here:Topology:838032370
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:83944931, Type: LineString, Distance: 28.57 meters, Coordinates: [[10.4086, 51.00111], [10.40814, 51.00097], [10.40797, 51.00092], [10.4078, 51.00089], [10.40763, 51.00088], [10.40747, 51.00088], [10.40729, 51.0009], [10.40711, 51.00093], [10.40677, 51.001]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:99213638, Type: LineString, Distance: 44.56 meters, Coordinates: [[10.40936, 51.00153], [10.40905, 51.00176]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:99213649, Type: LineString, Distance: 28.57 meters, Coordinates: [[10.4086, 51.00111], [10.4088024, 51.0012208], [10.40902, 51.00134]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:99213650, Type: LineString, Distance: 14.78 meters, Coordinates: [[10.40902, 51.00134], [10.4091901, 51.0014351], [10.40936, 51.00153]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:99235282, Type: LineString, Distance: 14.78 meters, Coordinates: [[10.40902, 51.00134], [10.40906, 51.00137], [10.40909, 51.00142], [10.4091, 51.00146], [10.40911, 51.00152], [10.4091, 51.00162], [10.40905, 51.00176]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:99213650, Type: LineString, Distance: 14.78 meters
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:99213650, Access: [{'confidence': {'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'score': 0.95, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'appliesTo': 'BOTH', 'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}], 'isDefault': True}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622257063834502472
+Partition ID: 23606947
+Coordinates: [8.5876, 53.18252]
+  -> Original Topology ID: urn:here::here:Topology:792580002
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:100950804, Type: LineString, Distance: 19.25 meters, Coordinates: [[8.58741, 53.18265], [8.58775, 53.18273]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:101775153, Type: LineString, Distance: 38.25 meters, Coordinates: [[8.58703, 53.18255], [8.58741, 53.18265]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:106369348, Type: LineString, Distance: 32.78 meters, Coordinates: [[8.58724, 53.18272], [8.58669, 53.18295]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:130525807, Type: LineString, Distance: 15.37 meters, Coordinates: [[8.58782, 53.18256], [8.58778, 53.18261], [8.58776, 53.18265], [8.58775, 53.1827], [8.58775, 53.18273]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:789617728, Type: LineString, Distance: 38.25 meters, Coordinates: [[8.58703, 53.18255], [8.58715, 53.18256], [8.5873, 53.18257], [8.58742, 53.18257], [8.58751, 53.18257], [8.58758, 53.18257]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:789618578, Type: LineString, Distance: 15.37 meters, Coordinates: [[8.58782, 53.18256], [8.5877, 53.18257], [8.58758, 53.18257]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: True
+  - ID: urn:here::here:Topology:792572564, Type: LineString, Distance: 47.32 meters, Coordinates: [[8.58749, 53.1821], [8.58695, 53.18223]]
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:792580002, Type: LineString, Distance: 10.36 meters, Coordinates: [[8.58746, 53.18248], [8.58758, 53.18257]]
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:89735066, Type: LineString, Distance: 25.43 meters, Coordinates: [[8.58775, 53.18273], [8.58776, 53.18276], [8.58779, 53.18281], [8.58783, 53.18285]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:90689444, Type: LineString, Distance: 19.25 meters, Coordinates: [[8.58741, 53.18265], [8.58724, 53.18272]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:96126363, Type: LineString, Distance: 32.78 meters, Coordinates: [[8.58724, 53.18272], [8.58783, 53.18285]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:96287999, Type: LineString, Distance: 39.81 meters, Coordinates: [[8.58783, 53.18285], [8.58794, 53.18288], [8.58815, 53.18293], [8.58849, 53.18301]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:789618578, Type: LineString, Distance: 15.37 meters
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: True
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:789618578, Access: [{'confidence': {'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'score': 0.95, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'appliesTo': 'TO_START', 'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}], 'isDefault': True}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621785568679906047
+Partition ID: 23600086
+Coordinates: [8.29379, 50.03077]
+  -> Original Topology ID: urn:here::here:Topology:632072072
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:78729478, Type: LineString, Distance: 19.79 meters, Coordinates: [[8.29405, 50.03083], [8.29425, 50.03109], [8.29434, 50.03122], [8.29454, 50.03154], [8.29462, 50.03167], [8.2947759, 50.0319299], [8.29483, 50.03202]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': False}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:78764801, Type: LineString, Distance: 30.6 meters, Coordinates: [[8.29421, 50.03072], [8.29429, 50.03085], [8.29442, 50.03105], [8.29449, 50.03117], [8.29459, 50.03134], [8.29471, 50.03156]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': False}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:80346724, Type: LineString, Distance: 42.93 meters, Coordinates: [[8.29326, 50.03059], [8.2930505, 50.0306408], [8.292714, 50.0307224], [8.2924657, 50.0307826], [8.2922028, 50.0308463], [8.29194, 50.03091]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:87191625, Type: LineString, Distance: 42.93 meters, Coordinates: [[8.29326, 50.03059], [8.29354, 50.03062], [8.29367, 50.03065], [8.2938, 50.03069], [8.29383, 50.0307], [8.29391, 50.03074], [8.29405, 50.03083]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:80346724, Type: LineString, Distance: 42.93 meters
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:80346724, Access: [{'confidence': {'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'score': 0.95, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'appliesTo': 'BOTH', 'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}], 'isDefault': True}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621759109660268219
+Partition ID: 23599701
+Coordinates: [6.98049, 49.23637]
+  -> Original Topology ID: urn:here::here:Topology:844084820
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+  No nearby topologies found.
+Case: 5
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621759046259604233
+Partition ID: 23599700
+Coordinates: [6.86146, 49.24494]
+  -> Original Topology ID: urn:here::here:Topology:106102580
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:174274382, Type: LineString, Distance: 33.42 meters, Coordinates: [[6.86169, 49.2452], [6.86159, 49.24529], [6.8614624, 49.2454054], [6.86138, 49.24548], [6.86125, 49.2456], [6.86109, 49.24574], [6.8609113, 49.2458939], [6.86073, 49.24605], [6.86068, 49.24609], [6.86054, 49.24622], [6.8603859, 49.2463617], [6.86029, 49.24645], [6.8601772, 49.2465521], [6.86008, 49.24664], [6.85999, 49.24673], [6.85996, 49.24676], [6.8599, 49.24683], [6.85986, 49.2469], [6.85983, 49.24697], [6.85981, 49.24703], [6.85979, 49.24711], [6.85978, 49.24716]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:186415409, Type: LineString, Distance: 33.42 meters, Coordinates: [[6.86169, 49.2452], [6.8618403, 49.2450697], [6.86199, 49.24494], [6.86206, 49.24487], [6.86217, 49.24479], [6.8624, 49.24463]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:503534566, Type: LineString, Distance: 23.0 meters, Coordinates: [[6.86164, 49.24511], [6.86152, 49.24522], [6.86128, 49.24543], [6.86102, 49.24565], [6.86068, 49.24597], [6.86063, 49.24601], [6.86046, 49.24616], [6.8603413, 49.2462727], [6.86026, 49.24635], [6.8602, 49.24641], [6.86, 49.24658], [6.8599, 49.24668], [6.85981, 49.24679]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:503534566, Type: LineString, Distance: 23.0 meters
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:503534566, Access: [{'confidence': {'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'score': 0.95, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'appliesTo': 'TO_START', 'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_BICYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_PEDESTRIAN', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}], 'isDefault': True}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622604707805324026
+Partition ID: 23612006
+Coordinates: [12.14647, 49.70047]
+  -> Original Topology ID: urn:here::here:Topology:805794950
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:104615640, Type: LineString, Distance: 15.79 meters, Coordinates: [[12.14668, 49.70043], [12.1469171, 49.7004804], [12.14715, 49.70053]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:135478327, Type: LineString, Distance: 15.79 meters, Coordinates: [[12.14668, 49.70043], [12.14652, 49.7004], [12.14642, 49.70038], [12.14589, 49.70027], [12.14581, 49.70025], [12.14559, 49.70021], [12.14528, 49.70016], [12.14446, 49.70006], [12.14405, 49.70002], [12.14353, 49.69999], [12.14305, 49.69998], [12.1423, 49.69998], [12.14152, 49.70001], [12.14092, 49.70007], [12.14036, 49.70014], [12.13991, 49.70021], [12.13949, 49.70029], [12.13902, 49.70039], [12.13856, 49.70051], [12.13814, 49.70062], [12.13782, 49.70071]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:80748717, Type: LineString, Distance: 39.85 meters, Coordinates: [[12.14685, 49.70021], [12.1468, 49.70028], [12.14674, 49.70036], [12.14668, 49.70043]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:90542409, Type: LineString, Distance: 39.85 meters, Coordinates: [[12.14685, 49.70021], [12.1469, 49.70028], [12.14695, 49.70034], [12.14701, 49.7004], [12.14708, 49.70047], [12.14715, 49.70053]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:104615640, Type: LineString, Distance: 15.79 meters
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:104615640, Access: [{'confidence': {'score': 0.95, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'auto': True, 'bicycle': True, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': True, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_BICYCLE', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_PEDESTRIAN', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}], 'isDefault': True, 'appliesTo': 'BOTH'}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621789558273461066
+Partition ID: 23600144
+Coordinates: [8.8006, 47.85505]
+  -> Original Topology ID: urn:here::here:Topology:811942109
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:162776273, Type: LineString, Distance: 32.94 meters, Coordinates: [[8.80051, 47.85476], [8.8005, 47.85491], [8.80047, 47.85504], [8.80042, 47.85516], [8.80036, 47.85527], [8.80026, 47.85537], [8.80013, 47.85547], [8.79999, 47.85555], [8.79982, 47.85561], [8.79965, 47.85565], [8.79945, 47.85567], [8.79926, 47.85567], [8.79915, 47.85565]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:162776273, Type: LineString, Distance: 32.94 meters
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:162776273, Access: [{'confidence': {'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'score': 0.95, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'appliesTo': 'BOTH', 'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}], 'isDefault': True}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1621758926869971323
+Partition ID: 23599698
+Coordinates: [6.74129, 49.34079]
+  -> Original Topology ID: urn:here::here:Topology:200145928
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:160083613, Type: LineString, Distance: 42.93 meters, Coordinates: [[6.7407, 49.34077], [6.74109, 49.34083]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:633666048, Type: LineString, Distance: 15.2 meters, Coordinates: [[6.74109, 49.34083], [6.74099, 49.34085], [6.74091, 49.34087], [6.74082, 49.3409], [6.74074, 49.34094], [6.74069, 49.34097], [6.74064, 49.34101], [6.74059, 49.34107]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:100781148, Type: LineString, Distance: 46.88 meters, Coordinates: [[6.74171, 49.34047], [6.74246, 49.34063], [6.74262, 49.34065]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:200145928, Type: LineString, Distance: 10.41 meters, Coordinates: [[6.7414, 49.34073], [6.74133, 49.34087], [6.74128, 49.34106], [6.74123, 49.34109], [6.74116, 49.34112], [6.74097, 49.34117], [6.74084, 49.34122], [6.74066, 49.34142], [6.74056, 49.34156], [6.7405, 49.34166], [6.74047, 49.34171], [6.74042, 49.34188], [6.74031, 49.34229], [6.74011, 49.34268], [6.73989, 49.34305]]
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+  - ID: urn:here::here:Topology:92022311, Type: LineString, Distance: 46.88 meters, Coordinates: [[6.74171, 49.34047], [6.74147, 49.34064], [6.7414, 49.34073]]
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:633666048, Type: LineString, Distance: 15.2 meters
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:633666048, Access: [{'confidence': {'score': 0.95, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}], 'isDefault': True, 'appliesTo': 'FROM_START'}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622265489724468724
+Partition ID: 23607069
+Coordinates: [10.50579, 52.28114]
+  -> Original Topology ID: urn:here::here:Topology:135326169
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+  No nearby topologies found.
+Case: 5
+------------------------------------------------------------
+Validation ID: urn:here::here:signs:1622247500252548645
+Partition ID: 23606808
+Coordinates: [8.824, 52.21653]
+  -> Original Topology ID: urn:here::here:Topology:503028826
+     Access - Auto: False, Bicycle: True, Pedestrian: True
+Nearby Topologies:
+  - ID: urn:here::here:Topology:757700474, Type: LineString, Distance: 46.33 meters, Coordinates: [[8.82447, 52.21683], [8.82457, 52.21689], [8.82463, 52.21693], [8.82468, 52.21698], [8.82472, 52.21704], [8.82475, 52.21712]]
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+  - ID: urn:here::here:Topology:757707502, Type: LineString, Distance: 46.33 meters, Coordinates: [[8.82447, 52.21683], [8.8247, 52.21687], [8.82491, 52.21692]]
+    Access: {'auto': True, 'bicycle': True, 'pedestrian': False}, isRamp: False, isMotorway: False
+Best Match:
+  - ID: urn:here::here:Topology:757700474, Type: LineString, Distance: 46.33 meters
+    Access: {'auto': True, 'bicycle': False, 'pedestrian': False}, isRamp: True, isMotorway: False
+Case: 2
+Best Match:
+  - ID: urn:here::here:Topology:757700474, Access: [{'confidence': {'score': 0.95, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'auto': True, 'bicycle': False, 'bus': True, 'carpool': True, 'delivery': True, 'emergencyVehicle': True, 'pedestrian': False, 'motorcycle': True, 'taxi': True, 'truck': True, 'throughTraffic': True, 'vehicleTypeConfidence': [{'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_DELIVERY', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_TRUCK', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_THROUGH_TRAFFIC', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_CARPOOL', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_TAXI', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_EMERGENCY_VEHICLE', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_MOTORCYCLE', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_BUS', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}, {'score': 0.0, 'updatedOn': '2021-02-17T21:44:27.863Z', 'featureType': 'ROAD_VEHICLE_TYPE_AUTO', 'scoreType': 'EXISTENCE', 'updateSource': 'INJECTION_TMOB'}], 'isDefault': True, 'appliesTo': 'TO_START'}]
+    isRamp: None, isMotorway: None
+------------------------------------------------------------

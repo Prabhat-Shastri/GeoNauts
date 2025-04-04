@@ -1,0 +1,50 @@
+CASE 3 REPORT: Auto+Pedestrian ➝ Pedestrian-only Nearby Topologies
+============================================================
+
+Validation ID: urn:here::here:signs:1621759125981153440
+Partition ID: 23599701
+Validation Coordinates: [7.0162, 49.22119]
+  -> Original Topology ID: urn:here::here:Topology:150103876
+     Access - Auto: True, Pedestrian: True
+Nearby Topologies (Auto=False, Pedestrian=True):
+  - ID: urn:here::here:Topology:503517838, Type: LineString, Distance: 18.03 meters
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+    Coordinates: [[7.01616, 49.22135], [7.01601, 49.22135], [7.0158, 49.22138], [7.01551, 49.22149], [7.0153, 49.22161]]
+Best Match (Case = 3):
+  - ID: urn:here::here:Topology:503517838, Type: LineString, Distance: 18.03 meters
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+    Coordinates: [[7.01616, 49.22135], [7.01601, 49.22135], [7.0158, 49.22138], [7.01551, 49.22149], [7.0153, 49.22161]]
+Case: 3
+------------------------------------------------------------
+
+Validation ID: urn:here::here:signs:1622257952225476716
+Partition ID: 23606960
+Validation Coordinates: [8.81519, 53.1114]
+  -> Original Topology ID: urn:here::here:Topology:792440967
+     Access - Auto: True, Pedestrian: True
+Nearby Topologies (Auto=False, Pedestrian=True):
+  - ID: urn:here::here:Topology:792440633, Type: LineString, Distance: 19.71 meters
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+    Coordinates: [[8.81499, 53.11127], [8.81499, 53.11114], [8.81498, 53.11109], [8.81498, 53.11106], [8.81496, 53.11096], [8.81513, 53.11057], [8.81406, 53.11038], [8.81379, 53.11035], [8.81351, 53.11033], [8.81245, 53.1103], [8.81218, 53.11029], [8.81191, 53.11028], [8.81138, 53.11027]]
+Best Match (Case = 3):
+  - ID: urn:here::here:Topology:792440633, Type: LineString, Distance: 19.71 meters
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+    Coordinates: [[8.81499, 53.11127], [8.81499, 53.11114], [8.81498, 53.11109], [8.81498, 53.11106], [8.81496, 53.11096], [8.81513, 53.11057], [8.81406, 53.11038], [8.81379, 53.11035], [8.81351, 53.11033], [8.81245, 53.1103], [8.81218, 53.11029], [8.81191, 53.11028], [8.81138, 53.11027]]
+Case: 3
+------------------------------------------------------------
+
+Validation ID: urn:here::here:signs:1622265434340944084
+Partition ID: 23607069
+Validation Coordinates: [10.49012, 52.21079]
+  -> Original Topology ID: urn:here::here:Topology:154529997
+     Access - Auto: True, Pedestrian: True
+Nearby Topologies (Auto=False, Pedestrian=True):
+  - ID: urn:here::here:Topology:95719401, Type: LineString, Distance: 42.0 meters
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+    Coordinates: [[10.48958, 52.21097], [10.48963, 52.21129], [10.48959, 52.21141], [10.48954, 52.21157]]
+Best Match (Case = 3):
+  - ID: urn:here::here:Topology:95719401, Type: LineString, Distance: 42.0 meters
+    Access: {'auto': False, 'bicycle': True, 'pedestrian': True}, isRamp: False, isMotorway: False
+    Coordinates: [[10.48958, 52.21097], [10.48963, 52.21129], [10.48959, 52.21141], [10.48954, 52.21157]]
+Case: 3
+------------------------------------------------------------
