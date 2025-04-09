@@ -90,7 +90,10 @@ Coordinates: [6.98049, 49.23637]
   -> Original Topology ID: urn:here::here:Topology:844084820
      Access - Auto: False, Bicycle: True, Pedestrian: True
   No nearby topologies found.
-Case: 5
+Case: 4
+Best Match:
+  - ID: urn:here::here:Topology:844084820, Access: [{'confidence': {'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'score': 0.95, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'appliesTo': 'BOTH', 'auto': False, 'bicycle': True, 'bus': False, 'carpool': False, 'delivery': False, 'emergencyVehicle': False, 'pedestrian': True, 'motorcycle': False, 'taxi': False, 'truck': False, 'throughTraffic': False, 'vehicleTypeConfidence': [{'featureType': 'ROAD_VEHICLE_TYPE_BICYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_PEDESTRIAN', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}], 'isDefault': True}]
+    isRamp: None, isMotorway: None
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621759046259604233
 Partition ID: 23599700
@@ -180,7 +183,10 @@ Coordinates: [10.50579, 52.28114]
   -> Original Topology ID: urn:here::here:Topology:135326169
      Access - Auto: False, Bicycle: True, Pedestrian: True
   No nearby topologies found.
-Case: 5
+Case: 4
+Best Match:
+  - ID: urn:here::here:Topology:135326169, Access: [{'confidence': {'featureType': 'ROAD_ACCESS_CHARACTERISTICS', 'scoreType': 'EXISTENCE', 'score': 0.95, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, 'range': {'endOffset': 1.0, 'startOffset': 0.0}, 'appliesTo': 'BOTH', 'auto': False, 'bicycle': True, 'bus': False, 'carpool': False, 'delivery': False, 'emergencyVehicle': False, 'pedestrian': True, 'motorcycle': False, 'taxi': False, 'truck': False, 'throughTraffic': False, 'vehicleTypeConfidence': [{'featureType': 'ROAD_VEHICLE_TYPE_BICYCLE', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}, {'featureType': 'ROAD_VEHICLE_TYPE_PEDESTRIAN', 'scoreType': 'EXISTENCE', 'score': 0.0, 'updateSource': 'INJECTION_TMOB', 'updatedOn': '2021-02-17T21:44:27.863Z'}], 'isDefault': True}]
+    isRamp: None, isMotorway: None
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622247500252548645
 Partition ID: 23606808

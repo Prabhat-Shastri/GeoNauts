@@ -1,7 +1,16 @@
+#Step 3
+#Checks for mismatches where auto access is False but pedestrian or bicycle is True.
+#These are often motorways signs incorrectly linked to nearby sidewalk topologies.
+#If unprocessed, it searches nearby topologies to resolve the mismatch.
+#Classifies as Case 2 (match found) or Case 4 (no suitable match).
+
 import json
 import os
+import pandas as pd
+
 from geopy.distance import geodesic
 
+# Extracts access flags from a topology's accessCharacteristics list
 def extract_access_flags(access_list):
     if not isinstance(access_list, list) or len(access_list) == 0:
         return {}
@@ -12,6 +21,7 @@ def extract_access_flags(access_list):
         "pedestrian": access.get("pedestrian")
     }
 
+# Returns True if topology blocks auto but allows pedestrian or bicycle (potential sidewalk mismatch)
 def check_access_mismatch(flags):
     return (
         flags.get("auto") is False and 
@@ -19,6 +29,7 @@ def check_access_mismatch(flags):
     )
 
 def find_unprocessed_access_mismatches():
+    # Load the validation file containing possibly mismatched topologies
     input_file = "validation_with_topology_suggestions.geojson"
     output_file = "access_mismatch_unprocessed.txt"
 
@@ -40,6 +51,7 @@ def find_unprocessed_access_mismatches():
         topo_props = relevant_topo.get("properties", {})
         access_flags = extract_access_flags(topo_props.get("accessCharacteristics", []))
 
+        # Skip validations that don't meet mismatch criteria
         is_mismatch = check_access_mismatch(access_flags)
         was_processed = props.get("processed", None)
 
@@ -54,6 +66,7 @@ def find_unprocessed_access_mismatches():
             f"     Access - Auto: {access_flags.get('auto')}, Bicycle: {access_flags.get('bicycle')}, Pedestrian: {access_flags.get('pedestrian')}"
         ]
 
+        # If mismatch is unprocessed, search for nearby topologies in same tile
         if not was_processed:
             # Load partition tile
             topo_path = os.path.join(".", partition_id, f"{partition_id}_full_topology_data.geojson")
@@ -67,6 +80,7 @@ def find_unprocessed_access_mismatches():
                     coords = geom.get("coordinates", [])
                     geom_type = geom.get("type", "")
 
+                    # Extract the first coordinate of the topology for distance calculation
                     first_coord = None
                     if geom_type == "LineString" and coords:
                         first_coord = coords[0]
@@ -76,6 +90,7 @@ def find_unprocessed_access_mismatches():
                     if not first_coord:
                         continue
 
+                    # Compute distance between validation and topology (must be within 50 meters)
                     dist = geodesic((coordinates[1], coordinates[0]), (first_coord[1], first_coord[0])).meters
                     if dist <= 50:
                         c_props = candidate.get("properties", {})
@@ -99,6 +114,7 @@ def find_unprocessed_access_mismatches():
                             if isinstance(motorway_data, dict):
                                 is_motorway = motorway_data.get("value", "N/A")
 
+                        # Store topologies within 50m with relevant access info and characteristics
                         nearby_topos.append((
                             c_props.get("id", "Unknown"),
                             geom_type,
@@ -117,6 +133,7 @@ def find_unprocessed_access_mismatches():
                     result.append(f"  - ID: {nid}, Type: {ntype}, Distance: {distance} meters, Coordinates: {all_coords}")
                     result.append(f"    Access: {naccess}, isRamp: {is_ramp}, isMotorway: {is_motorway}")
                 
+                # Select best candidate based on distance and preference (auto=True, not pedestrian/bike, ramp/motorway)
                 best_match = None
 
                 if len(nearby_topos) == 1:
@@ -137,7 +154,8 @@ def find_unprocessed_access_mismatches():
                     result.append("Best Match:")
                     result.append(f"  - ID: {best_id}, Type: {best_type}, Distance: {best_dist} meters")
                     result.append(f"    Access: {best_access}, isRamp: {best_ramp}, isMotorway: {best_motorway}")
-                    props["correctTopology"] = {
+                    # Case 2: match found and relevant topology assigned
+                    props["relevantTopology"] = {
                         "type": "Feature",
                         "geometry": full_geom,
                         "properties": best_props  # store full original properties
@@ -145,18 +163,21 @@ def find_unprocessed_access_mismatches():
                     props["Case"] = 2
                 else:
                     result.append("  No suitable best match found from nearby topologies.")
-                    props["Case"] = 5
+                    # Case 4: no suitable match found
+                    props["Case"] = 4
             else:
                 result.append("  No nearby topologies found.")
-                props["Case"] = 5
+                # Case 4: no suitable match found
+                props["Case"] = 4
 
+            # Mark this validation as processed regardless of match result
             props["processed"] = True  # Ensure processed is set either way
 
         # Add Case and best match info (even if already processed)
         case_type = props.get("Case", "Unknown")
         result.append(f"Case: {case_type}")
-        if "correctTopology" in props:
-            ct = props["correctTopology"]
+        if "relevantTopology" in props:
+            ct = props["relevantTopology"]
             result.append("Best Match:")
             result.append(f"  - ID: {ct['properties'].get('id')}, Access: {ct['properties'].get('accessCharacteristics')}")
             result.append(f"    isRamp: {ct['properties'].get('isRamp')}, isMotorway: {ct['properties'].get('isMotorway')}")
@@ -164,7 +185,7 @@ def find_unprocessed_access_mismatches():
         result.append("-" * 60)
         results.append("\n".join(result))
 
-    # Write full report
+    # Write mismatch analysis report to text file
     with open(output_file, "w") as f:
         f.write("ACCESS MISMATCH REPORT (All Processed Mismatches)\n")
         f.write("=" * 60 + "\n")
@@ -173,11 +194,60 @@ def find_unprocessed_access_mismatches():
         else:
             f.write("No mismatches found.\n")
 
-    # Save updated JSON
+    # Save updated validations back to the same input file
     with open(input_file, "w") as out_json:
         json.dump(data, out_json, indent=2)
 
-    print(f"[DEBUG] Report saved to {output_file}")
+    # Append Case 2 and Case 4 entries to results.csv
+    csv_path = os.path.join(".", "results.csv")
+
+    # Load or create results DataFrame
+    if os.path.exists(csv_path):
+        results_df = pd.read_csv(csv_path)
+    else:
+        results_df = pd.DataFrame(columns=[
+            "Feature ID", "Violation ID", "Partition ID",
+            "Case", "Processed", "Topology Found",
+            "Suggested Topology ID", "Notes"
+        ])
+
+    # For each processed mismatch, add a row to results.csv
+    for feature in data.get("features", []):
+        props = feature.get("properties", {})
+        feature_id = props.get("Feature ID", "")
+        violation_id = props.get("Violation ID", "")
+        partition_id = props.get("Partition ID", "")
+        case = props.get("Case", "")
+        processed = props.get("processed", False)
+        correct_topology = props.get("relevantTopology", {})
+        suggested_topo_id = correct_topology.get("properties", {}).get("id", "") if correct_topology else ""
+
+        # Only log mismatches processed by this step
+        if case not in [2, 4] or not processed:
+            continue
+
+        topology_found = "Yes" if case == 2 else "No"
+        note = (
+            f"Access mismatch, resolved with nearby topology ({suggested_topo_id})"
+            if case == 2 else
+            "Access mismatch, no suitable nearby topology found"
+        )
+
+        new_row = {
+            "Feature ID": feature_id,
+            "Violation ID": violation_id,
+            "Partition ID": partition_id,
+            "Case": case,
+            "Processed": "Yes",
+            "Topology Found": topology_found,
+            "Suggested Topology ID": suggested_topo_id,
+            "Notes": note
+        }
+        
+        results_df = results_df.append(new_row, ignore_index=True)
+
+    results_df.to_csv(csv_path, index=False)
+    print(f"[DEBUG] results.csv updated with access mismatch entries")
 
 if __name__ == "__main__":
     find_unprocessed_access_mismatches()

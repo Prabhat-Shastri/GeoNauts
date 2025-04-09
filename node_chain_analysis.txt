@@ -85,11 +85,11 @@ No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621752874458049432
 Partition ID: 23599610
-Original Topology ID: Unknown
+Original Topology ID: urn:here::here:Topology:91812898
 Coordinates: [8.16271, 49.13895]
-Original Topology Coordinates: []
+Original Topology Coordinates: [[8.16364, 49.13883], [8.16341, 49.13891], [8.16322, 49.13896], [8.16297, 49.13901], [8.16268, 49.13905]]
 Original Allows Pedestrian: False
-Connected Topology IDs: None
+Connected Topology IDs: urn:here::here:Topology:91812896
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621752876050240343
@@ -98,7 +98,7 @@ Original Topology ID: urn:here::here:Topology:198120130
 Coordinates: [8.16832, 49.14067]
 Original Topology Coordinates: [[8.16824, 49.14057], [8.1687544, 49.1407184], [8.16928, 49.14087], [8.1699, 49.14105], [8.17042, 49.1412], [8.17167, 49.14157], [8.17195, 49.14165], [8.17222, 49.14173], [8.17251, 49.14181], [8.17277, 49.14188], [8.17303, 49.14195], [8.17323, 49.142], [8.17331, 49.14202], [8.17359, 49.14209], [8.1747, 49.14236], [8.17494, 49.14242], [8.17514, 49.14247]]
 Original Allows Pedestrian: True
-Connected Topology IDs: urn:here::here:Topology:556871180, urn:here::here:Topology:556845438
+Connected Topology IDs: urn:here::here:Topology:556845438, urn:here::here:Topology:556871180
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621752884171909494
@@ -112,20 +112,20 @@ No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622231838998022556
 Partition ID: 23606580
-Original Topology ID: urn:here::here:Topology:838032370
+Original Topology ID: urn:here::here:Topology:99213650
 Coordinates: [10.40881, 51.00133]
-Original Topology Coordinates: [[10.40855, 51.00242], [10.40839, 51.00235], [10.40834, 51.0023], [10.40835, 51.00223], [10.40841, 51.00217], [10.40853, 51.00208], [10.4086288, 51.0019812], [10.40873, 51.00188], [10.40885, 51.00167], [10.40888, 51.00155], [10.40886, 51.00146], [10.40878, 51.0014], [10.4083896, 51.0012193], [10.40824, 51.00115], [10.40797, 51.00105], [10.40772, 51.00102], [10.40741, 51.00105], [10.40705, 51.00113], [10.40681, 51.00121], [10.40566, 51.00174], [10.40492, 51.00207], [10.40399, 51.00244], [10.40329, 51.00271], [10.40264, 51.00295], [10.40203, 51.00319], [10.40144, 51.00343], [10.40087, 51.00367], [10.40033, 51.00394], [10.39979, 51.00422], [10.39924, 51.00447], [10.39791, 51.00505], [10.39639, 51.00573], [10.39553, 51.00613], [10.39494, 51.00638], [10.39485, 51.00643]]
-Original Allows Pedestrian: True
-Connected Topology IDs: None
+Original Topology Coordinates: [[10.40902, 51.00134], [10.4091901, 51.0014351], [10.40936, 51.00153]]
+Original Allows Pedestrian: False
+Connected Topology IDs: urn:here::here:Topology:99213649
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622257063834502472
 Partition ID: 23606947
-Original Topology ID: urn:here::here:Topology:792580002
+Original Topology ID: urn:here::here:Topology:789618578
 Coordinates: [8.5876, 53.18252]
-Original Topology Coordinates: [[8.58746, 53.18248], [8.58758, 53.18257]]
-Original Allows Pedestrian: True
-Connected Topology IDs: urn:here::here:Topology:792579621
+Original Topology Coordinates: [[8.58782, 53.18256], [8.5877, 53.18257], [8.58758, 53.18257]]
+Original Allows Pedestrian: False
+Connected Topology IDs: urn:here::here:Topology:83645519
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621785253739312981
@@ -152,11 +152,11 @@ No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621785568679906047
 Partition ID: 23600086
-Original Topology ID: urn:here::here:Topology:632072072
+Original Topology ID: urn:here::here:Topology:80346724
 Coordinates: [8.29379, 50.03077]
-Original Topology Coordinates: [[8.29328, 50.02978], [8.29342, 50.03], [8.29347, 50.0301], [8.29356, 50.03031], [8.29365, 50.03035], [8.2937259, 50.0304664], [8.2938, 50.03058], [8.29383, 50.03065], [8.29383, 50.0307], [8.29382, 50.03078], [8.29385, 50.03083], [8.29395, 50.03089], [8.29402, 50.03097], [8.29412, 50.03113], [8.29421, 50.03125], [8.29435, 50.03146], [8.2945349, 50.0317899], [8.29472, 50.03212], [8.29478, 50.03226], [8.29481, 50.03234], [8.29481, 50.03242], [8.29478, 50.03249], [8.29483, 50.03251], [8.29488, 50.03254], [8.29491, 50.03258], [8.29502, 50.0328], [8.29502, 50.03294], [8.29495, 50.03307]]
-Original Allows Pedestrian: True
-Connected Topology IDs: urn:here::here:Topology:883768898
+Original Topology Coordinates: [[8.29326, 50.03059], [8.2930505, 50.0306408], [8.292714, 50.0307224], [8.2924657, 50.0307826], [8.2922028, 50.0308463], [8.29194, 50.03091]]
+Original Allows Pedestrian: False
+Connected Topology IDs: urn:here::here:Topology:87496670, urn:here::here:Topology:87191625
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622244977470103447
@@ -165,7 +165,7 @@ Original Topology ID: urn:here::here:Topology:190398571
 Coordinates: [11.03483, 51.80582]
 Original Topology Coordinates: [[11.03072, 51.80855], [11.0312, 51.80822], [11.03195, 51.80771], [11.03259, 51.80727], [11.0329422, 51.8070313], [11.03349, 51.80666], [11.03469, 51.80585], [11.03515, 51.80553], [11.03526, 51.80545], [11.03536, 51.80537], [11.03548, 51.80527], [11.03558, 51.80517], [11.03567, 51.80507], [11.03575, 51.80497], [11.03582, 51.80487], [11.03588, 51.80477], [11.03593, 51.80467], [11.03598, 51.80455], [11.03605, 51.80438], [11.03612, 51.80416]]
 Original Allows Pedestrian: False
-Connected Topology IDs: urn:here::here:Topology:79223878, urn:here::here:Topology:98346856
+Connected Topology IDs: urn:here::here:Topology:98346856, urn:here::here:Topology:79223878
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622265023553125278
@@ -269,27 +269,27 @@ No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621759046259604233
 Partition ID: 23599700
-Original Topology ID: urn:here::here:Topology:106102580
+Original Topology ID: urn:here::here:Topology:503534566
 Coordinates: [6.86146, 49.24494]
-Original Topology Coordinates: [[6.86101, 49.24449], [6.86121, 49.24469], [6.86148, 49.24508], [6.86164, 49.24511]]
+Original Topology Coordinates: [[6.86164, 49.24511], [6.86152, 49.24522], [6.86128, 49.24543], [6.86102, 49.24565], [6.86068, 49.24597], [6.86063, 49.24601], [6.86046, 49.24616], [6.8603413, 49.2462727], [6.86026, 49.24635], [6.8602, 49.24641], [6.86, 49.24658], [6.8599, 49.24668], [6.85981, 49.24679]]
 Original Allows Pedestrian: True
-Connected Topology IDs: urn:here::here:Topology:163980286
+Connected Topology IDs: urn:here::here:Topology:181308876
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622604707805324026
 Partition ID: 23612006
-Original Topology ID: urn:here::here:Topology:805794950
+Original Topology ID: urn:here::here:Topology:104615640
 Coordinates: [12.14647, 49.70047]
-Original Topology Coordinates: [[12.1469, 49.69569], [12.14684, 49.69601], [12.1468, 49.69619], [12.1467, 49.69645], [12.14652, 49.69707], [12.1464, 49.69756], [12.14649, 49.69827], [12.14663, 49.69867], [12.14673, 49.69892], [12.14679, 49.69906], [12.1468, 49.69928], [12.1468, 49.69952], [12.14675, 49.69973], [12.14666, 49.7], [12.14656, 49.70012], [12.14647, 49.7003], [12.14642, 49.70038], [12.14637, 49.70055], [12.1463, 49.70073], [12.1462, 49.70089], [12.14608, 49.70104], [12.14607, 49.7011], [12.14614, 49.70112]]
+Original Topology Coordinates: [[12.14668, 49.70043], [12.1469171, 49.7004804], [12.14715, 49.70053]]
 Original Allows Pedestrian: True
-Connected Topology IDs: None
+Connected Topology IDs: urn:here::here:Topology:135478327
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622222364218865141
 Partition ID: 23606442
-Original Topology ID: Unknown
+Original Topology ID: urn:here::here:Topology:899105049
 Coordinates: [8.51692, 51.94347]
-Original Topology Coordinates: []
+Original Topology Coordinates: [[8.51706, 51.94362], [8.5172, 51.94354], [8.51738, 51.94344], [8.51761, 51.94333], [8.51792, 51.94321], [8.518, 51.94318], [8.51812, 51.94315], [8.51828, 51.94312], [8.51844, 51.94309], [8.51857, 51.9431], [8.51872, 51.94314], [8.51894, 51.94325], [8.51904, 51.94335], [8.51908, 51.94347], [8.51908, 51.94353], [8.51907, 51.94358], [8.51906, 51.94361], [8.51904, 51.94365], [8.51901, 51.94369], [8.51898, 51.94372], [8.51892, 51.94377], [8.51887, 51.9438], [8.51881, 51.94383], [8.51874, 51.94386], [8.51863, 51.9439], [8.5183, 51.94401]]
 Original Allows Pedestrian: False
 Connected Topology IDs: None
 No alternative matches found.
@@ -307,11 +307,11 @@ Possible better matches (pedestrian access = False):
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621789558273461066
 Partition ID: 23600144
-Original Topology ID: urn:here::here:Topology:811942109
+Original Topology ID: urn:here::here:Topology:162776273
 Coordinates: [8.8006, 47.85505]
-Original Topology Coordinates: [[8.80583, 47.85377], [8.80583, 47.8539], [8.80578, 47.85393], [8.80573, 47.85394], [8.80556, 47.85393], [8.80543, 47.8539], [8.80522, 47.8539], [8.80421, 47.85403], [8.8034443, 47.854148], [8.802587, 47.8542801], [8.8023143, 47.8543221], [8.8017162, 47.8544143], [8.80129, 47.85448], [8.80103, 47.85457], [8.80081, 47.85473], [8.80076, 47.85483], [8.8007064, 47.855064], [8.80065, 47.85531], [8.80044, 47.85565], [8.80031, 47.85578], [8.80015, 47.85588], [8.79996, 47.85595], [8.79972, 47.85601], [8.79937, 47.85606], [8.7991, 47.85605], [8.7989, 47.85604], [8.79875, 47.856], [8.7983461, 47.8559029], [8.79796, 47.85581], [8.79782, 47.85578], [8.79774, 47.85579], [8.79757, 47.85583], [8.79731, 47.85594], [8.7970564, 47.8560774], [8.79659, 47.85633], [8.7961144, 47.8564967], [8.79562, 47.85667]]
-Original Allows Pedestrian: True
-Connected Topology IDs: None
+Original Topology Coordinates: [[8.80051, 47.85476], [8.8005, 47.85491], [8.80047, 47.85504], [8.80042, 47.85516], [8.80036, 47.85527], [8.80026, 47.85537], [8.80013, 47.85547], [8.79999, 47.85555], [8.79982, 47.85561], [8.79965, 47.85565], [8.79945, 47.85567], [8.79926, 47.85567], [8.79915, 47.85565]]
+Original Allows Pedestrian: False
+Connected Topology IDs: urn:here::here:Topology:100538661, urn:here::here:Topology:100538663, urn:here::here:Topology:100538662
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1623131007340159978
@@ -390,11 +390,11 @@ No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621758926869971323
 Partition ID: 23599698
-Original Topology ID: urn:here::here:Topology:200145928
+Original Topology ID: urn:here::here:Topology:633666048
 Coordinates: [6.74129, 49.34079]
-Original Topology Coordinates: [[6.7414, 49.34073], [6.74133, 49.34087], [6.74128, 49.34106], [6.74123, 49.34109], [6.74116, 49.34112], [6.74097, 49.34117], [6.74084, 49.34122], [6.74066, 49.34142], [6.74056, 49.34156], [6.7405, 49.34166], [6.74047, 49.34171], [6.74042, 49.34188], [6.74031, 49.34229], [6.74011, 49.34268], [6.73989, 49.34305]]
-Original Allows Pedestrian: True
-Connected Topology IDs: urn:here::here:Topology:92022311, urn:here::here:Topology:633364097
+Original Topology Coordinates: [[6.74109, 49.34083], [6.74099, 49.34085], [6.74091, 49.34087], [6.74082, 49.3409], [6.74074, 49.34094], [6.74069, 49.34097], [6.74064, 49.34101], [6.74059, 49.34107]]
+Original Allows Pedestrian: False
+Connected Topology IDs: urn:here::here:Topology:633672396
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622259731087861489
@@ -520,11 +520,11 @@ No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622247500252548645
 Partition ID: 23606808
-Original Topology ID: urn:here::here:Topology:503028826
+Original Topology ID: urn:here::here:Topology:757700474
 Coordinates: [8.824, 52.21653]
-Original Topology Coordinates: [[8.82288, 52.21834], [8.82292, 52.21821], [8.82337, 52.21735], [8.82357, 52.21702], [8.82383, 52.21668], [8.82389, 52.2166], [8.82403, 52.21636], [8.82416, 52.21602], [8.82421, 52.21583]]
-Original Allows Pedestrian: True
-Connected Topology IDs: urn:here::here:Topology:530641395
+Original Topology Coordinates: [[8.82447, 52.21683], [8.82457, 52.21689], [8.82463, 52.21693], [8.82468, 52.21698], [8.82472, 52.21704], [8.82475, 52.21712]]
+Original Allows Pedestrian: False
+Connected Topology IDs: urn:here::here:Topology:184602105
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1621790734535554550
@@ -533,7 +533,7 @@ Original Topology ID: urn:here::here:Topology:898857069
 Coordinates: [8.57206, 48.17793]
 Original Topology Coordinates: [[8.5721, 48.17801], [8.57149, 48.17809], [8.57056, 48.17822], [8.5702, 48.17827], [8.56982, 48.17832]]
 Original Allows Pedestrian: True
-Connected Topology IDs: urn:here::here:Topology:750395307, urn:here::here:Topology:750374010
+Connected Topology IDs: urn:here::here:Topology:750374010, urn:here::here:Topology:750395307
 No alternative matches found.
 ------------------------------------------------------------
 Validation ID: urn:here::here:signs:1622233813343598399
