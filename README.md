@@ -6,7 +6,7 @@
 
 ## 🌍 Project Scope
 
-The core issue revolves around HERE's Validation Rule `WSIGN406`, which triggers when a motorway sign is incorrectly associated with a road segment that permits pedestrian access. These mismatches often result from automated processes that associate signs to topologies without accounting for their intended context — for example, linking a motorway sign to an adjacent pedestrian path.
+The core issue revolves around HERE's Validation Rule `WSIGN406`, which triggers when a regulatory sign (typically a pedestrian restriction) is incorrectly associated with a road segment that permits pedestrian access. These mismatches often result from automated processes that associate signs to topologies without accounting for their intended context — for example, linking a motorway sign to an adjacent pedestrian path.
 
 These validation triggers can arise from several root causes:
 
@@ -109,6 +109,19 @@ Our team was awarded **1st place** for designing the most innovative and scalabl
 
 The challenge: **Automatically correcting spatial validations**.  
 We focused on violations triggered by **motorway signs incorrectly associated with pedestrian-accessible roads** (Validation Rule `WSIGN406`), and built a fully automated pipeline to clean and correct the map data.
+
+---
+
+## 🖥️ Final Presentation
+
+We presented our project live at the HERE Technologies Hackathon in Chicago, April 2025.
+
+📽️ [View the presentation slides](https://drive.google.com/file/d/1qCW_RZEWx4DY3TqRdrdd2UEjs-QNI7dV/view?usp=drive_link)
+
+Our demo walked through:
+- The real-world motivation behind `WSIGN406` validations
+- How our pipeline identifies and classifies access violations
+- Case-by-case walkthroughs of logic, code, and fixes
 
 ---
 
